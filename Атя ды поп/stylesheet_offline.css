@@ -1,0 +1,116 @@
+::MyCoolStylesheet [stylesheet]
+
+body {    background-image: url(images/fon.png);/* если офлайн */
+          background-color: white; 
+     }
+
+.grammatika { background-color: white;    /* Фоновый цвет грамм. правил */
+              
+            } 
+.zagolovok { background-color: #f0f0f0;
+           font-size: smaller;
+             }
+
+#ui-bar { background-color: rgb(231,104,93); } /* Фоновый цвет лев. колонки */
+
+.passage { font-family: Times New Roman; 
+           font-size: 20px; 
+           color: #000000;
+           background-color: rgba(255,255,255,0.70);
+           padding: 10% 5%;
+           border: none;
+           border-radius: none; }
+
+.passage a {color: #000000;}
+
+.passage .link-broken { color: black; }
+
+.text-rus { color: green; font-size: smaller; }
+
+.valks { color: green; }
+
+.text-gr { color: blue; } /* Цвет эрз. текста в грамм. правилах */
+
+#story-title { font-family: courier; color: #000080; font-size: 30px; }
+
+a:hover { border-bottom: 1px dashed #000000; 
+  text-decoration: none; }
+
+  /* ТАБЛИЦЫ */
+
+table {
+  border-collapse: collapse; /* Убирает двойные линии */
+  width: 100%; /* Ширина таблицы */
+  }
+
+td {
+  border: 1px solid #000; /* Параметры границ */
+  text-align: center; 
+    }
+
+th {
+  background: #dfebb7;
+  border: 1px solid #000; /* Параметры границ */
+    }
+
+tr:nth-child(even) {
+  background: #f0f0f0; /* Зебра */
+}
+
+caption {
+  font-style: italic;
+}
+
+/* СВОРАЧИВЕМЫЙ ТЕКСТ */
+
+details summary {
+  display: block;  /* у summary по умолчанию свойство display в значении list-item, потому поддерживается свойство list-style */
+  width: 10em;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;  /* блок раскрывается при щелчке по кнопке, а не по всей строке */
+  outline-style: none;  /* удалить обводку при фокусе */
+  cursor: pointer;
+}
+/*
+details summary::-webkit-details-marker {  /* нестандартный псевдоэлемент Google Chrome */
+  display: none;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿diftongi1
+ая  оя  уя  ия  эя  ыя  ея  яя  юя  ёя
+aja oja uja ija ěja yja eja äja üja öja
+
+diftongi2
+Ая  Оя  Уя  Ия  Эя  Ыя  Ея  Яя  Юя  Ёя
+Aja Oja Uja Ija Ěja Yja Eja Äja Üja Öja
+
+diftongi3
+аю  ою  ую  ию  эю  ыю  ею  яю  юю  ёю
+aju oju uju iju ěju yju eju äju üju öju
+
+diftongi4
+Аю  Ою  Ую  Ию  Эю  Ыю  Ею  Яю  Юю  Ёю
+Aju Oju Uju Iju Ěju Yju Eju Äju Üju Öju
+
+diftongi5
+аё  оё  уё  иё  эё  ыё  её  яё  юё  ёё
+ajo ojo ujo ijo ějo yjo ejo äjo üjo öjo
+
+diftongi6
+Аё  Оё  Уё  Иё  Эё  Ыё  Её  Яё  Юё  Ёё
+Ajo Ojo Ujo Ijo Ějo Yjo Ejo Äjo Üjo Öjo
+
+
+glasnye1               
+А а О о У у Ы ы И и    
+A a O o U u Y y I i
+
+glasnye2
+Э э Я я Ю ю Е е Ё ё
+Ě ě Ä ä Ü ü E e Ö ö    
+
+v načale slova
+Ě ě Ä  ä  Ü  ü  Ö  ö
+E e Ja ja Ju ju Jo jo
+
+soglasnye1 
+Б б В в Г г Д д Ж ж З з К к Л л М м Н н
+B b V v G g D d Ž ž Z z K k L l M m N n 
+
+soglasnye2
+П п Р р С с Т т Ф ф Х х Ц ц Ч ч Ш ш 
+P p R r S s T t F f H h C c Č č Š š
+
+tv_znak
+ъä ъö ъü ЪÄ ЪÖ ЪÜ
+ja jo ju JA JO JU
+
+jjj
+Ь ь Щ  щ  Й й Ъ ъ
+́  ́  Čš čš J j
+
+affrikaty
+H h nz nž ng nk
+Χ χ nʒ nǯ ŋg ŋk
