@@ -1,0 +1,566 @@
+Атя ды поп
+
+::start
+<center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
+<center><h3>АТЯ ДЫ ПОП</h3></center>\
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f370/ig7EyeLZwl4.jpg]]</center>\
+<center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
+<center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;Erzäks\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;Эрзякс</center>
+
+::1
+<<linkappend "Atä martо pоp mоĺst́ vejsě laste.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> \
+<<linkappend "Vet́ lоtkast́ paksäs udоmо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
+<<linkappend "Pidest́ vecajam, jarsast́ dy karmast́ kоrtamо, kineń vet́ vanоms lišmetneń.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
+<<linkappend "Atänt́ lišmezě uĺneś sivоj dy beräkške, pоpоnt́ - karej dy pek parо.">> <span class="text-rus">У старика лошадь была сивая и плохенькая, у попа - каряя и очень хорошая.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
+
+::2
+<<linkappend "Veś uĺneś čоpоda.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> \
+<<linkappend "Atäś meri:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
+<<linkappend "- Mоneń mejs vanоms?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> \
+<<linkappend "Mоń lišmem ašо.">> <span class="text-rus">Моя лошадь белая.</span><</linkappend>> \
+<<linkappend "Kоdak stän - nesa.">> <span class="text-rus">Как только встану - сразу увижу её.</span><</linkappend>> \
+<<linkappend "Tоn ilä udо, vant, raužо alašat.">> <span class="text-rus">Ты не спи, смотри, твоя лошадь чёрная.</span><</linkappend>>
+<<linkappend "Pоpоnt́ araseĺ melezě vanоms, sоn meri:">> <span class="text-rus">У попа не было желания следить, он говорит:</span><</linkappend>>
+<<linkappend "- Adä lišmenek pоlavtsynek!">> <span class="text-rus">- А давай лошадьми поменяемся!</span><</linkappend>>
+<<linkappend "- Adä, - atäś meri.">> <span class="text-rus">- Давай - отвечает старик.</span><</linkappend>>
+<<linkappend "Pоlavtyź.">> <span class="text-rus">Поменялись.</span><</linkappend>> \
+<<linkappend "Atäś tagо kоrty:">> <span class="text-rus">Старик опять говорит:</span><</linkappend>>
+<<linkappend "- Nej mоn sedejak a karman vanоmо, sy salycä, mоnseś a nejavi, tоnsent́ nesyź dy salasyź.">> <span class="text-rus">Теперь я тем более не буду смотреть, придёт вор, мою-то не видно, а твою увидят и украдут.</span><</linkappend>>
+<<linkappend "Pоpоś čaŕkоdś, manävś, dy a mezt́ tejnems.">> <span class="text-rus">Поп понял, что его обманули, но а что поделаешь.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][1]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
+
+::3
+<<linkappend "Valske stäst́ dy tust́ sede tоv.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
+<<linkappend "Čiń-čоp mоĺst́.">> <span class="text-rus">Весь день шли.</span><</linkappend>> \
+<<linkappend "Čоkšne tagо lоtkast́ paksäs udоmо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> \
+<<linkappend "Jarsamkast uĺneś ansäk ve saraz.">> <span class="text-rus">Из еды у них была только одна курица.</span><</linkappend>> \
+<<linkappend "Kavоnest a peškedit́ pekest.">> <span class="text-rus">Двоим им не наеться (животы их не наполнить).</span><</linkappend>> \
+<<linkappend "Kоda teems?">> <span class="text-rus">Как поступить?</span><</linkappend>>
+<<linkappend "Pоpоś meri:">> <span class="text-rus">Поп говорит:</span><</linkappend>>
+<<linkappend "- Adä, atä, madtänо.">> <span class="text-rus">Айда, старик, поспим.</span><</linkappend>> \
+<<linkappend "Kie sede parо оn nei, seneń sarazоś ulezě.">> <span class="text-rus">Кто лучше сон увидит, того пускай курица будет.</span><</linkappend>>
+<<linkappend "Pоpоś madś dy karmaś parо оnоń arseme.">> <span class="text-rus">Поп лёг спать и стал хороший сон представлять.</span><</linkappend>> \
+<<linkappend "Atäś stäś, sarazоnt́ sěvize dy tagо matedevś.">> <span class="text-rus">Старик проснулся, съел курицу и опять уснул.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][2]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
+
+::4
+<<linkappend "Pоpоś stäś, stävtyze atänt́kak dy karmaś tenzě jovtneme, kоdamо оn neś.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
+<<linkappend "- Eh, meri, kоdamо parо оn neiń!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> \
+<<linkappend "Teke mоń saimiź meneĺ langоv.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> \
+<<linkappend "Eh, kоdamо parо tоsо!">> <span class="text-rus">Эх, как хорошо там!</span><</linkappend>>
+<<linkappend "Atäś meri:">> <span class="text-rus">Старик отвечает:</span><</linkappend>>
+<<linkappend "- Mоn neitiń, kоda tоń saidiź meneĺ langоv.">> <span class="text-rus">- Я увидел, как тебя взяли на небеса.</span><</linkappend>> \
+<<linkappend "Arsiń, tоstо mekev a sat, seks sarazоnt́ sěvija.">> <span class="text-rus">Подумал, оттуда обратно не вернёшься, поэтому и съел курицу.</span><</linkappend>>
+<<linkappend "Kadоvś pоpоś vačоdо.">> <span class="text-rus">Остался поп голодным.</span><</linkappend>>
+
+::11
+<<linkappend "Атя марто поп мольсть вейсэ ласте.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> <<linkappend "Веть лоткасть паксяс удомо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
+<<linkappend "Пидесть вецаям, ярсасть ды кармасть кортамо, кинень веть ваномс лишметнень.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
+<<linkappend "Атянть лишмезэ ульнесь сивой ды берякшке, попонть - карей ды пек паро.">> <span class="text-rus">У старика лошадь была сивая и плохенькая, у попа - каряя и очень хорошая.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
+
+::22
+<<linkappend "Весь ульнесь чопода.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> <<linkappend "Атясь мери:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
+<<linkappend "- Монень мейс ваномс?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> <<linkappend "Монь лишмем ашо.">> <span class="text-rus">Моя лошадь белая.</span><</linkappend>> <<linkappend "Кодак стян - неса.">> <span class="text-rus">Как только встану - сразу увижу её.</span><</linkappend>> <<linkappend "Тон иля удо, вант, раужо алашат.">> <span class="text-rus">Ты не спи, смотри, твоя лошадь чёрная.</span><</linkappend>>
+<<linkappend "Попонть арасель мелезэ ваномс, сон мери:">> <span class="text-rus">У попа не было желания следить, он говорит:</span><</linkappend>>
+<<linkappend "- Адя лишменек полавтсынек!">> <span class="text-rus">- А давай лошадьми поменяемся!</span><</linkappend>>
+<<linkappend "- Адя, - атясь мери.">> <span class="text-rus">- Давай - отвечает старик.</span><</linkappend>>
+<<linkappend "Полавтызь.">> <span class="text-rus">Поменялись.</span><</linkappend>> <<linkappend "Атясь таго корты:">> <span class="text-rus">Старик опять говорит:</span><</linkappend>>
+<<linkappend "- Ней мон седеяк а карман ваномо, сы салыця, монсесь а неяви, тонсенть несызь ды саласызь.">> <span class="text-rus">Теперь я тем более не буду смотреть, придёт вор, мою-то не видно, а твою увидят и украдут.</span><</linkappend>>
+<<linkappend "Попось чарькодсь, манявсь, ды а мезть тейнемс.">> <span class="text-rus">Поп понял, что его обманули, но а что поделаешь.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][11]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
+
+::33
+<<linkappend "Валске стясть ды тусть седе тов.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
+<<linkappend "Чинь-чоп мольсть.">> <span class="text-rus">Весь день шли.</span><</linkappend>> <<linkappend "Чокшне таго лоткасть паксяс удомо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> <<linkappend "Ярсамкаст ульнесь ансяк ве сараз.">> <span class="text-rus">Из еды у них была только одна курица.</span><</linkappend>> <<linkappend "Кавонест а пешкедить пекест.">> <span class="text-rus">Двоим им не наеться (животы их не наполнить).</span><</linkappend>> <<linkappend "Кода теемс?">> <span class="text-rus">Как поступить?</span><</linkappend>>
+<<linkappend "Попось мери:">> <span class="text-rus">Поп говорит:</span><</linkappend>>
+<<linkappend "- Адя, атя, мадтяно.">> <span class="text-rus">Айда, старик, поспим.</span><</linkappend>> <<linkappend "Кие седе паро он неи, сенень саразось улезэ.">> <span class="text-rus">Кто лучше сон увидит, того пускай курица будет.</span><</linkappend>>
+<<linkappend "Попось мадсь ды кармась паро ононь арсеме.">> <span class="text-rus">Поп лёг спать и стал хороший сон представлять.</span><</linkappend>> <<linkappend "Атясь стясь, саразонть сэвизе ды таго матедевсь.">> <span class="text-rus">Старик проснулся, съел курицу и опять уснул.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][22]]&nbsp;&nbsp;&nbsp;[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
+
+::44
+<<linkappend "Попось стясь, стявтызе атянтькак ды кармась тензэ ёвтнеме, кодамо он несь.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
+<<linkappend "- Эх, мери, кодамо паро он неинь!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> <<linkappend "Теке монь саимизь менель лангов.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> <<linkappend "Эх, кодамо паро тосо!">> <span class="text-rus">Эх, как хорошо там!</span><</linkappend>>
+<<linkappend "Атясь мери:">> <span class="text-rus">Старик отвечает:</span><</linkappend>>
+<<linkappend "- Мон неитинь, кода тонь саидизь менель лангов.">> <span class="text-rus">- Я увидел, как тебя взяли на небеса.</span><</linkappend>> <<linkappend "Арсинь, тосто мекев а сат, секс саразонть сэвия.">> <span class="text-rus">Подумал, оттуда обратно не вернёшься, поэтому и съел курицу.</span><</linkappend>>
+<<linkappend "Кадовсь попось вачодо.">> <span class="text-rus">Остался поп голодным.</span><</linkappend>>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]
+
+::StoryMenu
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]
+[[В начало|start]]
+[[Валкс|Ruz_Valks]]
+[[Valks|Valks]]
+[[Latinica|latinica]]
+
+::Valks
+a - <span class="valks">не (отр. частица) с глаголом наст./буд.</span>
+adä - <span class="valks">айда, давай</span>
+alaša - <span class="valks">лошадь</span>
+alašat - <span class="valks">лошадь (твоя)</span> 
+ansäk - <span class="valks">только</span>
+araseĺ - <span class="valks">не было</span> 
+araś - <span class="valks">нет</span>
+arseme - <span class="valks">думать, мечтать</span> 
+arsems - <span class="valks">думать, мечтать</span>
+arsiń - <span class="valks">думал</span> 
+atä - <span class="valks">старик</span>
+atänt́ - <span class="valks">у (этого) старика, (этого) старика</span>
+atänt́kak - <span class="valks">и старика (этого)</span>
+atäś - <span class="valks">старик (этот)</span>
+ašо - <span class="valks">белый</span>
+beräkške - <span class="valks">худенький, плохонький</span>
+valske - <span class="valks">утро, утром</span>
+vanоmо - <span class="valks">смотреть, пасти</span> 
+vanоms - <span class="valks">смотреть, пасти</span>
+vant - <span class="valks">смотри, следи</span> 
+vačоdо - <span class="valks">голодный</span>
+ve - <span class="valks">ночь</span>
+vejsě - <span class="valks">вместе</span>
+veś - <span class="valks">ночь (эта)</span> 
+vet́ - <span class="valks">ночью</span>
+vecajam - <span class="valks">кашица, суп из крупы</span> 
+dy - <span class="valks">и, да</span>
+jovtneme - <span class="valks">рассказывать</span> 
+ilä - <span class="valks">не (частица отрицания при повелительном наклонении)</span>
+kavоnest - <span class="valks">вдвоём</span>
+kadоvоms - <span class="valks">остаться, отстать</span>
+kadоvś - <span class="valks">остался</span> 
+karej - <span class="valks">карий</span>
+karmams - <span class="valks">начать, стать</span>
+karman - <span class="valks">буду, начну</span> 
+karmast́ - <span class="valks">начали, стали</span> 
+karmaś - <span class="valks">начал, стал</span> 
+kie - <span class="valks">кто</span>
+kineń - <span class="valks">кому</span>
+kоda - <span class="valks">как</span>
+kоdak - <span class="valks">как только</span>
+kоdamо - <span class="valks">какой</span>
+kоrtamо - <span class="valks">говорить, обсуждать</span> 
+kоrtams - <span class="valks">говорить, беседовать</span>
+kоrty - <span class="valks">говорит</span> 
+langоv - <span class="valks">на</span>
+laste - <span class="valks">верхом, молемс ласте - ехать верхом</span>
+lišme - <span class="valks">лошадь</span>
+lišmezě - <span class="valks">лошадь (его)</span> 
+lišmem - <span class="valks">лошадь (моя)</span> 
+lišmenek - <span class="valks">лошади (наши)</span> 
+lišmetneń - <span class="valks">лошадей (этих)</span> 
+lоtkams - <span class="valks">остановиться</span>
+lоtkast́ - <span class="valks">остановились</span> 
+madems - <span class="valks">лечь спать</span>
+madś - <span class="valks">лёг спать</span>
+madtänо - <span class="valks">спим, поспим</span>
+manävоms - <span class="valks">ошибиться, обмануться</span>
+manävś - <span class="valks">ошибься</span>
+martо - <span class="valks">с (послелог)</span>
+matedevems - <span class="valks">уснуть</span>
+matedevś - <span class="valks">уснул</span>
+mezt́ - <span class="valks">что</span>
+mejs - <span class="valks">зачем</span>
+mekev - <span class="valks">обратно</span>
+meĺ - <span class="valks">желание, мысль</span>
+melezě - <span class="valks">желание (его)</span>
+meneĺ - <span class="valks">небо</span>
+merems - <span class="valks">сказать, ответить</span>
+meri - <span class="valks">говорит</span>
+mоlems - <span class="valks">идти, двигаться</span>
+mоĺst́ - <span class="valks">шли, передвигались</span>
+mоn - <span class="valks">я</span>
+mоneń- <span class="valks">мне</span>
+mоnseś - <span class="valks">тот, который мой; именно мой</span>
+mоń - <span class="valks">мой, меня, у меня</span>
+neems - <span class="valks">видеть</span>
+nei - <span class="valks">видит, увидит</span>
+neiń - <span class="valks">увидел</span>
+neitiń - <span class="valks">(я) увидел (тебя)</span>
+nej - <span class="valks">теперь, сейчас</span>
+nesa - <span class="valks">(я) увижу (его)</span>
+nesyź - <span class="valks">(они) увидят (его, их)</span>
+neś - <span class="valks">видел, увидел</span>
+nejavi - <span class="valks">виднеется, просматривается</span> 
+nejavоms - <span class="valks">виднеться</span> 
+оn - <span class="valks">сон</span>
+оnоń - <span class="valks">сон</span> 
+paksä - <span class="valks">поле</span>
+paksäs - <span class="valks">до поля, в поле</span>
+parо - <span class="valks">хорошо, хороший</span>
+pek - <span class="valks">очень</span>
+peke - <span class="valks">живот</span>
+pekest - <span class="valks">животы (их)</span>
+peškedems - <span class="valks">наполниться</span>
+peškedit́ - <span class="valks">наполняются</span>
+pidems - <span class="valks">варить</span>
+pidest́ - <span class="valks">сварили</span>
+pоlavtоms - <span class="valks">поменять, обменять</span>
+pоlavtsynek - <span class="valks">(мы) поменяем (его, их)</span>
+pоlavtyź - <span class="valks">(они) поменяли (его, их)</span>
+pоp - <span class="valks">поп</span>
+pоpоnt́ - <span class="valks">попа (этого)</span>
+pоpоś - <span class="valks">поп (этот)</span>
+raužо - <span class="valks">чёрный</span>
+saems - <span class="valks">взять</span>
+saidiź - <span class="valks">(они) взяли (тебя)</span>
+saimiź - <span class="valks">(они) взяли (меня)</span>
+salams - <span class="valks">красть</span>
+salasyź - <span class="valks">(они) украдут (его, их)</span>
+salycä - <span class="valks">вор</span>
+saraz - <span class="valks">курица</span>
+sarazоnt́ - <span class="valks">курицу (эту)</span>
+sarazоś - <span class="valks">курица (эта)</span>
+sams - <span class="valks">приходить</span>
+sat - <span class="valks">придёшь</span>
+sede - <span class="valks">больше, более</span>
+sedejak - <span class="valks">ещё (лучше)</span> 
+seks - <span class="valks">потому</span>
+se - <span class="valks">тот</span>
+seneń - <span class="valks">тому</span>
+sivоj - <span class="valks">сивый, сивая</span>
+sоn - <span class="valks">он, она</span>
+stävtоms - <span class="valks">поставить, разбудить</span>
+stävtyze - <span class="valks">(он) разбудил (его)</span>
+stäms - <span class="valks">встать</span>
+stän - <span class="valks">встану</span>
+stäst́ - <span class="valks">встали</span>
+stäś - <span class="valks">встал, проснулся</span>
+sy - <span class="valks">идёт, придёт</span>
+sěvems - <span class="valks">съесть</span>
+sěvize - <span class="valks">(он) съел (её)</span>
+sěvija - <span class="valks">(я) съел (её)</span> 
+tagо - <span class="valks">снова, опять</span>
+teems - <span class="valks">делать</span>
+tejnems - <span class="valks">делать (многократно)</span>
+teke - <span class="valks">как будто, словно</span>
+tenzě - <span class="valks">ему</span>
+tоv - <span class="valks">туда</span>
+tоn - <span class="valks">ты</span>
+tоnsent́ - <span class="valks">тот, который твой; именно твой</span>
+tоń - <span class="valks">твой, тебя, у тебя</span>
+tоsо - <span class="valks">там</span>
+tоstо - <span class="valks">оттуда</span>
+tuems - <span class="valks">пойти</span>
+tust́ - <span class="valks">пошли</span>
+udоms - <span class="valks">спать</span>
+udо - <span class="valks">иля удо - не спи</span>
+udоmо - <span class="valks">поспать, переночевать</span>
+ulezě - <span class="valks">пусть будет</span>
+ulems - <span class="valks">есть, имется, быть</span>
+uĺnems - <span class="valks">быть, существовать</span>
+uĺneś - <span class="valks">был(а, о)</span>
+čaŕkоdems - <span class="valks">понимать</span>
+čaŕkоdś - <span class="valks">понял</span>
+čiń-čоp- <span class="valks">целый день</span>
+čоkšne - <span class="valks">вечер, вечером</span>
+čоpоda - <span class="valks">тёмный</span>
+jarsamka - <span class="valks">пища</span> 
+jarsamkast - <span class="valks">пища (их)</span> 
+jarsams - <span class="valks">есть</span> 
+jarsast́ - <span class="valks">поели</span>
+
+::Ruz_Valks
+а - <span class="valks">не (отр. частица) с глаголом наст./буд.</span>
+адя - <span class="valks">айда, давай</span>
+алаша - <span class="valks">лошадь</span>
+алашат - <span class="valks">лошадь (твоя)</span> 
+ансяк - <span class="valks">только</span>
+арасель - <span class="valks">не было</span> 
+арась - <span class="valks">нет</span>
+арсеме - <span class="valks">думать, мечтать</span> 
+арсемс - <span class="valks">думать, мечтать</span>
+арсинь - <span class="valks">думал</span> 
+атя - <span class="valks">старик</span>
+атянть - <span class="valks">у (этого) старика, (этого) старика</span>
+атянтькак - <span class="valks">и старика (этого)</span>
+атясь - <span class="valks">старик (этот)</span>
+ашо - <span class="valks">белый</span>
+берякшке - <span class="valks">худенький, плохонький</span>
+валске - <span class="valks">утро, утром</span>
+ваномо - <span class="valks">смотреть, пасти</span> 
+ваномс - <span class="valks">смотреть, пасти</span>
+вант - <span class="valks">смотри, следи</span> 
+вачодо - <span class="valks">голодный</span>
+ве - <span class="valks">ночь</span>
+вейсэ - <span class="valks">вместе</span>
+весь - <span class="valks">ночь (эта)</span> 
+веть - <span class="valks">ночью</span>
+вецаям - <span class="valks">кашица, суп из крупы</span>
+ды - <span class="valks">и, да</span>
+ёвтнеме - <span class="valks">рассказывать</span>
+иля - <span class="valks">не (частица отрицания при повелительном наклонении)</span>
+кавонест - <span class="valks">вдвоём</span>
+кадовомс - <span class="valks">остаться, отстать</span>
+кадовсь - <span class="valks">остался</span> 
+карей - <span class="valks">карий</span>
+кармамс - <span class="valks">начать, стать</span>
+карман - <span class="valks">буду, начну</span> 
+кармасть - <span class="valks">начали, стали</span> 
+кармась - <span class="valks">начал, стал</span> 
+кие - <span class="valks">кто</span>
+кинень - <span class="valks">кому</span>
+кода - <span class="valks">как</span>
+кодак - <span class="valks">как только</span>
+кодамо - <span class="valks">какой</span>
+кортамо - <span class="valks">говорить, обсуждать</span> 
+кортамс - <span class="valks">говорить, беседовать</span>
+корты - <span class="valks">говорит</span> 
+лангов - <span class="valks">на</span>
+ласте - <span class="valks">верхом, молемс ласте - ехать верхом</span>
+лишме - <span class="valks">лошадь</span>
+лишмезэ - <span class="valks">лошадь (его)</span> 
+лишмем - <span class="valks">лошадь (моя)</span> 
+лишменек - <span class="valks">лошади (наши)</span> 
+лишметнень - <span class="valks">лошадей (этих)</span> 
+лоткамс - <span class="valks">остановиться</span>
+лоткасть - <span class="valks">остановились</span> 
+мадемс - <span class="valks">лечь спать</span>
+мадсь - <span class="valks">лёг спать</span>
+мадтяно - <span class="valks">спим, поспим</span>
+манявомс - <span class="valks">ошибиться, обмануться</span>
+манявсь - <span class="valks">ошибься</span>
+марто - <span class="valks">с (послелог)</span>
+матедевемс - <span class="valks">уснуть</span>
+матедевсь - <span class="valks">уснул</span>
+мезть - <span class="valks">что</span>
+мейс - <span class="valks">зачем</span>
+мекев - <span class="valks">обратно</span>
+мель - <span class="valks">желание, мысль</span>
+мелезэ - <span class="valks">желание (его)</span>
+менель - <span class="valks">небо</span>
+меремс - <span class="valks">сказать, ответить</span>
+мери - <span class="valks">говорит</span>
+молемс - <span class="valks">идти, двигаться</span>
+мольсть - <span class="valks">шли, передвигались</span>
+мон - <span class="valks">я</span>
+монень - <span class="valks">мне</span>
+монсесь - <span class="valks">тот, который мой; именно мой</span>
+монь - <span class="valks">мой, меня, у меня</span>
+неемс - <span class="valks">видеть</span>
+неи - <span class="valks">видит, увидит</span>
+неинь - <span class="valks">увидел</span>
+неитинь - <span class="valks">(я) увидел (тебя)</span>
+ней - <span class="valks">теперь, сейчас</span>
+неса - <span class="valks">(я) увижу (его)</span>
+несызь - <span class="valks">(они) увидят (его, их)</span>
+несь - <span class="valks">видел, увидел</span>
+неяви - <span class="valks">виднеется, просматривается</span>
+неявомс - <span class="valks">виднеться</span>
+он - <span class="valks">сон</span>
+ононь - <span class="valks">сон</span> 
+пакся - <span class="valks">поле</span>
+паксяс - <span class="valks">до поля, в поле</span>
+паро - <span class="valks">хорошо, хороший</span>
+пек - <span class="valks">очень</span>
+пеке - <span class="valks">живот</span>
+пекест - <span class="valks">животы (их)</span>
+пешкедемс - <span class="valks">наполниться</span>
+пешкедить - <span class="valks">наполняются</span>
+пидемс - <span class="valks">варить</span>
+пидесть - <span class="valks">сварили</span>
+полавтомс - <span class="valks">поменять, обменять</span>
+полавтсынек - <span class="valks">(мы) поменяем (его, их)</span>
+полавтызь - <span class="valks">(они) поменяли (его, их)</span>
+поп - <span class="valks">поп</span>
+попонть - <span class="valks">попа (этого)</span>
+попось - <span class="valks">поп (этот)</span>
+раужо - <span class="valks">чёрный</span>
+саемс - <span class="valks">взять</span>
+саидизь - <span class="valks">(они) взяли (тебя)</span>
+саимизь - <span class="valks">(они) взяли (меня)</span>
+саламс - <span class="valks">красть</span>
+саласызь - <span class="valks">(они) украдут (его, их)</span>
+салыця - <span class="valks">вор</span>
+сараз - <span class="valks">курица</span>
+саразонть - <span class="valks">курицу (эту)</span>
+саразось - <span class="valks">курица (эта)</span>
+самс - <span class="valks">приходить</span>
+сат - <span class="valks">придёшь</span>
+седе - <span class="valks">больше, более</span>
+седеяк - <span class="valks">ещё (лучше)</span>
+секс - <span class="valks">потому</span>
+се - <span class="valks">тот</span>
+сенень - <span class="valks">тому</span>
+сивой - <span class="valks">сивый, сивая</span>
+сон - <span class="valks">он, она</span>
+стявтомс - <span class="valks">поставить, разбудить</span>
+стявтызе - <span class="valks">(он) разбудил (его)</span>
+стямс - <span class="valks">встать</span>
+стян - <span class="valks">встану</span>
+стясть - <span class="valks">встали</span>
+стясь - <span class="valks">встал, проснулся</span>
+сы - <span class="valks">идёт, придёт</span>
+сэвемс - <span class="valks">съесть</span>
+сэвизе - <span class="valks">(он) съел (её)</span>
+сэвия - <span class="valks">(я) съел (её)</span>
+таго - <span class="valks">снова, опять</span>
+теемс - <span class="valks">делать</span>
+тейнемс - <span class="valks">делать (многократно)</span>
+теке - <span class="valks">как будто, словно</span>
+тензэ - <span class="valks">ему</span>
+тов - <span class="valks">туда</span>
+тон - <span class="valks">ты</span>
+тонсенть - <span class="valks">тот, который твой; именно твой</span>
+тонь - <span class="valks">твой, тебя, у тебя</span>
+тосо - <span class="valks">там</span>
+тосто - <span class="valks">оттуда</span>
+туемс - <span class="valks">пойти</span>
+тусть - <span class="valks">пошли</span>
+удомс - <span class="valks">спать</span>
+удо - <span class="valks">иля удо - не спи</span>
+удомо - <span class="valks">поспать, переночевать</span>
+улезэ - <span class="valks">пусть будет</span>
+улемс - <span class="valks">есть, имется, быть</span>
+ульнемс - <span class="valks">быть, существовать</span>
+ульнесь - <span class="valks">был(а, о)</span>
+чарькодемс - <span class="valks">понимать</span>
+чарькодсь - <span class="valks">понял</span>
+чинь-чоп - <span class="valks">целый день</span>
+чокшне - <span class="valks">вечер, вечером</span>
+чопода - <span class="valks">тёмный</span>
+ярсамка - <span class="valks">пища</span>
+ярсамкаст - <span class="valks">пища (их)</span>
+ярсамс - <span class="valks">есть</span>
+ярсасть - <span class="valks">поели</span>
+
+::latinica
+<center>''ERZÄŃ LATINICA''</center>
+<table>
+    <tr>
+	    <td><center><span class="text-gr">''A a''</span></center></td>
+		<td><center>''А а''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''B b''</span></center></td>
+		<td><center>''Б б''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''V v''</span></center></td>
+		<td><center>''В в''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''G g''</span></center></td>
+		<td><center>''Г г''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''D d d́''</span></center></td>
+		<td><center>''Д д дь''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''E e''</span></center></td>
+		<td><center>''Е е'' ("йэ")</center><center>в начале слова как "э"</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Ö ö''</span></center></td>
+		<td><center>''Ё ё''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Ž ž''</span></center></td>
+		<td><center>''Ж ж''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Z z ź''</span></center></td>
+		<td><center>''З з зь''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''I i''</span></center></td>
+		<td><center>''И и''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''J j''</span></center></td>
+		<td><center>''Й й''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''K k''</span></center></td>
+		<td><center>''К к''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''L l ĺ''</span></center></td>
+		<td><center>''Л л ль''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''M m''</span></center></td>
+		<td><center>''М м''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''N n ń''</span></center></td>
+		<td><center>''Н н нь''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''O o''</span></center></td>
+		<td><center>''О о''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''P p''</span></center></td>
+		<td><center>''П п''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''R r ŕ''</span></center></td>
+		<td><center>''Р р рь''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''S s ś''</span></center></td>
+		<td><center>''С с сь''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''T t t́''</span></center></td>
+		<td><center>''Т т ть''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''U u''</span></center></td>
+		<td><center>''У у''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''F f''</span></center></td>
+		<td><center>''Ф ф''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''H h''</span></center></td>
+		<td><center>''Х х''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''C c ć''</span></center></td>
+		<td><center>''Ц ц ць''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Č č''</span></center></td>
+		<td><center>''Ч ч''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Š š''</span></center></td>
+		<td><center>''Ш ш''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Šč šč''</span></center></td>
+		<td><center>''Щ щ''</center><center>(в заимствованных словах)</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Y y''</span></center></td>
+		<td><center>''Ы ы''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Ě ě''</span></center></td>
+		<td><center>''Э э''</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Ü ü''</span></center></td>
+		<td><center>''Ю ю'' ("йу")</center></td>
+	</tr>
+	<tr>
+	    <td><center><span class="text-gr">''Ä ä''</span></center></td>
+		<td><center> ''Я я'' ("йа")</center></td>
+	</tr>
+</table>
+1. <span class="text-gr">''e''</span> в начале слова звучит как ''э''.
+
+2. Йотированные буквы ''ё, е, ю, я'' в начале и после других гласных пишутся как <span class="text-gr">''jo, je, ju, ja''</span> (''е'' в начале слова в эрзянском языке не бывает). \
+Примеры: //ёвкс// <span class="text-gr">jovks</span>, //ютамс// <span class="text-gr">jutams</span>, //якамс// <span class="text-gr">jakams</span>, //сеель// <span class="text-gr">sejeĺ</span>, //зыян// <span class="text-gr">zyjan</span>, //сияка// <span class="text-gr">sijaka</span>. 
+
+3. Мягкость согласных передаётся с помощью диакритического знака ''акут'' (U+0301 в таблице символов Юникод) ( <span class="text-gr">''ć, d́, ĺ, ń, ŕ, ś, t́, ź''</span>). \
+Если за мягким согласным стоит гласный, то мягкость ничем не обозначается, но вместо <span class="text-gr">''a, o, u, ě''</span> ставятся – <span class="text-gr">''ä, ö, ü, e''</span>. \
+Примеры: //кель// <span class="text-gr">keĺ</span>, //молян// <span class="text-gr">molän</span>, //кельме// <span class="text-gr">keĺme</span>, //сёрмав// <span class="text-gr">sörmav</span>, //тюс// <span class="text-gr">tüs</span>, //тейтерь// <span class="text-gr">tejteŕ</span>.
+
+4. В сочетаниях согласных ''ст, нт, зн, др'', где мягкие обе согласные, обозначается мягкость только последней из них. \
+Примеры: произносим “исьтямо”, пишем ''истямо'' <span class="text-gr">istämo</span>, “тоньть” ''тонть'' <span class="text-gr">tont́</span>, “зьняро” ''зняро'' <span class="text-gr">znäro</span>. Исключением является <span class="text-gr">''л''</span>, мягкость которого всегда обозначается, напр. <span class="text-gr">keĺne</span> ''кельне'' //язычок//.
