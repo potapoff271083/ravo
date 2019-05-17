@@ -1,4 +1,4 @@
-Атя ды поп
+﻿Атя ды поп
 
 ::start
 <center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
@@ -7,7 +7,7 @@
 <center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
 <center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>
 <center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;Erzäks\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;Эрзякс</center>
 
 ::1
