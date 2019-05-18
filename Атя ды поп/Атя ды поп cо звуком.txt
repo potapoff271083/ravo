@@ -10,16 +10,23 @@
 [img[images/v_nal.png][11]]&nbsp;Эрзякс</center>
 
 ::1
-<<link "[img[images/sd1.png]]">><<audio 1 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 1 stop>><</link>>
+<audio controls>
+    <source src="music/1.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Atä martо pоp mоĺst́ vejsě laste.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> \
 <<linkappend "Vet́ lоtkast́ paksäs udоmо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
 <<linkappend "Pidest́ vecajam, jarsast́ dy karmast́ kоrtamо, kineń vet́ vanоms lišmetneń.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
 <<linkappend "Atänt́ lišmezě uĺneś sivоj dy beräkške, pоpоnt́ - karej dy pek parо.">> <span class="text-rus">У старика лошадь была сивая и плохенькая, у попа - каряя и очень хорошая.</span><</linkappend>>
-[img[images/k_nal.png][start]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][2]]
 
 ::2
-<<link "[img[images/sd1.png]]">><<audio 2 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 2 stop>><</link>>
+<audio controls>
+    <source src="music/2.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Veś uĺneś čоpоda.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> \
 <<linkappend "Atäś meri:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
 <<linkappend "- Mоneń mejs vanоms?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> \
@@ -33,11 +40,15 @@
 <<linkappend "Atäś tagо kоrty:">> <span class="text-rus">Старик опять говорит:</span><</linkappend>>
 <<linkappend "- Nej mоn sedejak a karman vanоmо, sy salycä, mоnseś a nejavi, tоnsent́ nesyź dy salasyź.">> <span class="text-rus">Теперь я тем более не буду смотреть, придёт вор, мою-то не видно, а твою увидят и украдут.</span><</linkappend>>
 <<linkappend "Pоpоś čaŕkоdś, manävś, dy a mezt́ tejnems.">> <span class="text-rus">Поп понял, что его обманули, но а что поделаешь.</span><</linkappend>>
-[img[images/k_nal.png][1]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][1]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][3]]
 
 ::3
-<<link "[img[images/sd1.png]]">><<audio 3 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 3 stop>><</link>>
+<audio controls>
+    <source src="music/3.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Valske stäst́ dy tust́ sede tоv.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
 <<linkappend "Čiń-čоp mоĺst́.">> <span class="text-rus">Весь день шли.</span><</linkappend>> \
 <<linkappend "Čоkšne tagо lоtkast́ paksäs udоmо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> \
@@ -49,11 +60,15 @@
 <<linkappend "Kie sede parо оn nei, seneń sarazоś ulezě.">> <span class="text-rus">Кто лучше сон увидит, того пускай курица будет.</span><</linkappend>>
 <<linkappend "Pоpоś madś dy karmaś parо оnоń arseme.">> <span class="text-rus">Поп лёг спать и стал хороший сон представлять.</span><</linkappend>> \
 <<linkappend "Atäś stäś, sarazоnt́ sěvize dy tagо matedevś.">> <span class="text-rus">Старик проснулся, съел курицу и опять уснул.</span><</linkappend>>
-[img[images/k_nal.png][2]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][2]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][4]]
 
 ::4
-<<link "[img[images/sd1.png]]">><<audio 4 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 4 stop>><</link>>
+<audio controls>
+    <source src="music/4.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Pоpоś stäś, stävtyze atänt́kak dy karmaś tenzě jovtneme, kоdamо оn neś.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
 <<linkappend "- Eh, meri, kоdamо parо оn neiń!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> \
 <<linkappend "Teke mоń saimiź meneĺ langоv.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> \
@@ -62,18 +77,26 @@
 <<linkappend "- Mоn neitiń, kоda tоń saidiź meneĺ langоv.">> <span class="text-rus">- Я увидел, как тебя взяли на небеса.</span><</linkappend>> \
 <<linkappend "Arsiń, tоstо mekev a sat, seks sarazоnt́ sěvija.">> <span class="text-rus">Подумал, оттуда обратно не вернёшься, поэтому и съел курицу.</span><</linkappend>>
 <<linkappend "Kadоvś pоpоś vačоdо.">> <span class="text-rus">Остался поп голодным.</span><</linkappend>>
+
 [img[images/k_nal.png][3]] 
 
 ::11
-<<link "[img[images/sd1.png]]">><<audio 1 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 1 stop>><</link>>
+<audio controls>
+    <source src="music/1.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Атя марто поп мольсть вейсэ ласте.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> <<linkappend "Веть лоткасть паксяс удомо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
 <<linkappend "Пидесть вецаям, ярсасть ды кармасть кортамо, кинень веть ваномс лишметнень.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
 <<linkappend "Атянть лишмезэ ульнесь сивой ды берякшке, попонть - карей ды пек паро.">> <span class="text-rus">У старика лошадь была сивая и плохенькая, у попа - каряя и очень хорошая.</span><</linkappend>>
-[img[images/k_nal.png][start]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][22]]
 
 ::22
-<<link "[img[images/sd1.png]]">><<audio 2 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 2 stop>><</link>>
+<audio controls>
+    <source src="music/2.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Весь ульнесь чопода.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> <<linkappend "Атясь мери:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
 <<linkappend "- Монень мейс ваномс?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> <<linkappend "Монь лишмем ашо.">> <span class="text-rus">Моя лошадь белая.</span><</linkappend>> <<linkappend "Кодак стян - неса.">> <span class="text-rus">Как только встану - сразу увижу её.</span><</linkappend>> <<linkappend "Тон иля удо, вант, раужо алашат.">> <span class="text-rus">Ты не спи, смотри, твоя лошадь чёрная.</span><</linkappend>>
 <<linkappend "Попонть арасель мелезэ ваномс, сон мери:">> <span class="text-rus">У попа не было желания следить, он говорит:</span><</linkappend>>
@@ -82,26 +105,35 @@
 <<linkappend "Полавтызь.">> <span class="text-rus">Поменялись.</span><</linkappend>> <<linkappend "Атясь таго корты:">> <span class="text-rus">Старик опять говорит:</span><</linkappend>>
 <<linkappend "- Ней мон седеяк а карман ваномо, сы салыця, монсесь а неяви, тонсенть несызь ды саласызь.">> <span class="text-rus">Теперь я тем более не буду смотреть, придёт вор, мою-то не видно, а твою увидят и украдут.</span><</linkappend>>
 <<linkappend "Попось чарькодсь, манявсь, ды а мезть тейнемс.">> <span class="text-rus">Поп понял, что его обманули, но а что поделаешь.</span><</linkappend>>
-[img[images/k_nal.png][11]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][11]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][33]]
 
 ::33
-<<link "[img[images/sd1.png]]">><<audio 3 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 3 stop>><</link>>
+<audio controls>
+    <source src="music/3.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Валске стясть ды тусть седе тов.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
 <<linkappend "Чинь-чоп мольсть.">> <span class="text-rus">Весь день шли.</span><</linkappend>> <<linkappend "Чокшне таго лоткасть паксяс удомо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> <<linkappend "Ярсамкаст ульнесь ансяк ве сараз.">> <span class="text-rus">Из еды у них была только одна курица.</span><</linkappend>> <<linkappend "Кавонест а пешкедить пекест.">> <span class="text-rus">Двоим им не наеться (животы их не наполнить).</span><</linkappend>> <<linkappend "Кода теемс?">> <span class="text-rus">Как поступить?</span><</linkappend>>
 <<linkappend "Попось мери:">> <span class="text-rus">Поп говорит:</span><</linkappend>>
 <<linkappend "- Адя, атя, мадтяно.">> <span class="text-rus">Айда, старик, поспим.</span><</linkappend>> <<linkappend "Кие седе паро он неи, сенень саразось улезэ.">> <span class="text-rus">Кто лучше сон увидит, того пускай курица будет.</span><</linkappend>>
 <<linkappend "Попось мадсь ды кармась паро ононь арсеме.">> <span class="text-rus">Поп лёг спать и стал хороший сон представлять.</span><</linkappend>> <<linkappend "Атясь стясь, саразонть сэвизе ды таго матедевсь.">> <span class="text-rus">Старик проснулся, съел курицу и опять уснул.</span><</linkappend>>
-[img[images/k_nal.png][22]] &nbsp;&nbsp;&nbsp; \
+
+[img[images/k_nal.png][22]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][44]]
 
 ::44
-<<link "[img[images/sd1.png]]">><<audio 4 play>><</link>>&nbsp;&nbsp;&nbsp;<<link "[img[images/sd2.png]]">><<audio 4 stop>><</link>>
+<audio controls>
+    <source src="music/4.mp3" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
 <<linkappend "Попось стясь, стявтызе атянтькак ды кармась тензэ ёвтнеме, кодамо он несь.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
 <<linkappend "- Эх, мери, кодамо паро он неинь!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> <<linkappend "Теке монь саимизь менель лангов.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> <<linkappend "Эх, кодамо паро тосо!">> <span class="text-rus">Эх, как хорошо там!</span><</linkappend>>
 <<linkappend "Атясь мери:">> <span class="text-rus">Старик отвечает:</span><</linkappend>>
 <<linkappend "- Мон неитинь, кода тонь саидизь менель лангов.">> <span class="text-rus">- Я увидел, как тебя взяли на небеса.</span><</linkappend>> <<linkappend "Арсинь, тосто мекев а сат, секс саразонть сэвия.">> <span class="text-rus">Подумал, оттуда обратно не вернёшься, поэтому и съел курицу.</span><</linkappend>>
 <<linkappend "Кадовсь попось вачодо.">> <span class="text-rus">Остался поп голодным.</span><</linkappend>>
+
 [img[images/k_nal.png][33]]
 
 ::StoryMenu
