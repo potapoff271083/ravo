@@ -1,11 +1,11 @@
 ﻿Атя ды поп
 
 ::start
-<center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
-<center><h3>АТЯ ДЫ ПОП</h3></center>\
+<center><small><span id="stroka">Эрзянско-русские параллельные рассказы</span></small></center>\
+<center><h3><span id="zagolovok">АТЯ ДЫ ПОП</span></h3></center>\
 <center>[img[images/teshks.jpg]]</center>\
-<center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
-<center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>
+<center><small><span id="stroka">из книги "Ёвксонь кужо", составитель Маризь Кемаль</span></small></center>\
+<center><small><span id="stroka">подстрочно-смысловой перевод Михаил Потапов</span></small></center>
 <center>[img[images/v_nal.png][1]]&nbsp;Erzäks&nbsp;&nbsp;&nbsp;\
 [img[images/v_nal.png][11]]&nbsp;Эрзякс</center>
 

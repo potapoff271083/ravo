@@ -1,4 +1,4 @@
-::MyCoolStylesheet [stylesheet]
+﻿::MyCoolStylesheet [stylesheet]
 
 body {    background-image: url(images/fon.png);/* если офлайн * / /*https://pp.userapi.com/c852016/v852016681/114f39/_LnK1InTuVo.jpg*/
           background-color: white; 
@@ -10,8 +10,15 @@ body {    background-image: url(images/fon.png);/* если офлайн * / /*h
 .zagolovok { background-color: #f0f0f0;
            font-size: smaller;
              }
+#zagolovok {
+font-family: courier; color: #A6704D; font-size: 30px; text-shadow: 1px 1px 2px black;
+}/* Надпись Атя ды Поп на старте */
 
-#ui-bar { background-color: rgb(231,104,93); } /* Фоновый цвет лев. колонки */
+#stroka {
+font-family: courier; text-shadow: 0.3px 0.3px 0.7px black;
+}/* остальные надписи на первой странице */
+
+#ui-bar { background-color: #316A5F; } /* Фоновый цвет лев. колонки */
 
 .passage { font-family: Times New Roman; 
            font-size: 20px; 
@@ -31,7 +38,7 @@ body {    background-image: url(images/fon.png);/* если офлайн * / /*h
 
 .text-gr { color: blue; } /* Цвет эрз. текста в грамм. правилах */
 
-#story-title { font-family: courier; color: #000080; font-size: 30px; }
+#story-title { font-family: courier; color: #A6704D; font-size: 30px; text-shadow: 1px 1px 2px black;}
 
 a:hover { border-bottom: 1px dashed #000000; 
   text-decoration: none; }
@@ -77,6 +84,33 @@ details summary::-webkit-details-marker {  /* нестандартный псе�
   display: none;
 }
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
