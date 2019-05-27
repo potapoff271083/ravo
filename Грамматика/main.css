@@ -1,0 +1,129 @@
+body {    background-image: url(https://pp.userapi.com/c855332/v855332903/47759/eCtwnLrhJiI.jpg);/* если офлайн */
+          background-color: white; 
+     }
+
+.grammatika { background-color: white;    /* Фоновый цвет грамм. правил */
+              
+            } 
+.zagolovok { background-color: #f0f0f0;
+             padding: 5%;
+            }
+#zagolovok {
+font-family: courier; color: #DAC360; text-shadow: 0.8px 0.8px 1.5px black;
+}/* Надпись Загаловка на старте */
+
+#stroka {
+font-family: courier; text-shadow: 0.1px 0.1px 0.5px black;
+}
+
+#ui-bar { background-color: #486091; } /* Фоновый цвет лев. колонки */
+
+.passage { font-family: Times New Roman; 
+           color: #000000;
+           background-color: rgba(255,255,255,0.88);
+           padding: 10% 5%;
+           border: none;
+           border-radius: none; }
+
+.passage a {color: #000000;}
+
+.passage .link-broken { color: black; }
+
+.text-rus { color: #004BF9; font-size: smaller; }
+
+.valks { color: blue; }
+
+.text-gr { color: blue; } /* Цвет эрз. текста в грамм. правилах */
+
+#story-title { font-family: courier; color: #DAC360; text-shadow: 0.7px 0.7px 1.5px black;}
+
+a:hover { border-bottom: 1px dashed #000000; 
+  text-decoration: none; }
+
+  /* ТАБЛИЦЫ */
+
+table {
+  border-collapse: collapse; /* Убирает двойные линии */
+  width: 100%; /* Ширина таблицы */
+  }
+
+td {
+  border: 1px solid #000; /* Параметры границ */
+  text-align: center; 
+    }
+
+th {
+  background: #dfebb7;
+  border: 1px solid #000; /* Параметры границ */
+    }
+
+tr:nth-child(even) {
+  background: #f0f0f0; /* Зебра */
+}
+
+caption {
+  font-style: italic;
+}
+
+/* СВОРАЧИВЕМЫЙ ТЕКСТ */
+
+details summary {
+  display: block;  /* у summary по умолчанию свойство display в значении list-item, потому поддерживается свойство list-style */
+  width: 10em;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;  /* блок раскрывается при щелчке по кнопке, а не по всей строке */
+  outline-style: none;  /* удалить обводку при фокусе */
+  cursor: pointer;
+}
+/*
+details summary::-webkit-details-marker {  /* нестандартный псевдоэлемент Google Chrome */
+  display: none;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
