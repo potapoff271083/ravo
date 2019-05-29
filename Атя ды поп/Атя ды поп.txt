@@ -3,13 +3,18 @@
 ::start
 <center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
 <center><h3>АТЯ ДЫ ПОП</h3></center>\
-<center>[img[https://pp.userapi.com/c852320/v852320166/11f370/ig7EyeLZwl4.jpg]]</center>\
+
 <center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
 <center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>
 <center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;Erzäks&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;Эрзякс</center>
 
 ::1
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1wh-EnGrzd7kJjv2r1O5rzAysltr9bDVr" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Atä martо pоp mоĺst́ vejsě laste.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> \
 <<linkappend "Vet́ lоtkast́ paksäs udоmо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
 <<linkappend "Pidest́ vecajam, jarsast́ dy karmast́ kоrtamо, kineń vet́ vanоms lišmetneń.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
@@ -19,6 +24,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
 
 ::2
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1-yNjzUui3vZNHSDpaAnB-N1TsHFtv4uH" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Veś uĺneś čоpоda.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> \
 <<linkappend "Atäś meri:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
 <<linkappend "- Mоneń mejs vanоms?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> \
@@ -37,6 +47,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
 
 ::3
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1N9KbI6bLfQHCjxRQx_bx71_D1BHYKtJc" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Valske stäst́ dy tust́ sede tоv.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
 <<linkappend "Čiń-čоp mоĺst́.">> <span class="text-rus">Весь день шли.</span><</linkappend>> \
 <<linkappend "Čоkšne tagо lоtkast́ paksäs udоmо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> \
@@ -53,6 +68,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
 
 ::4
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1gaKLhogJPLCPBdZwMgwty2YbEPanFh2V" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Pоpоś stäś, stävtyze atänt́kak dy karmaś tenzě jovtneme, kоdamо оn neś.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
 <<linkappend "- Eh, meri, kоdamо parо оn neiń!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> \
 <<linkappend "Teke mоń saimiź meneĺ langоv.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> \
@@ -65,6 +85,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]
 
 ::11
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1wh-EnGrzd7kJjv2r1O5rzAysltr9bDVr" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Атя марто поп мольсть вейсэ ласте.">> <span class="text-rus">Поп со стариком ехали верхом вместе.</span><</linkappend>> <<linkappend "Веть лоткасть паксяс удомо.">> <span class="text-rus">Ночью остановились переночевать в поле.</span><</linkappend>>
 <<linkappend "Пидесть вецаям, ярсасть ды кармасть кортамо, кинень веть ваномс лишметнень.">> <span class="text-rus">Сварили кашу, поели и стали рассуждать, кому ночью за лошадьми смотреть.</span><</linkappend>>
 <<linkappend "Атянть лишмезэ ульнесь сивой ды берякшке, попонть - карей ды пек паро.">> <span class="text-rus">У старика лошадь была сивая и плохенькая, у попа - каряя и очень хорошая.</span><</linkappend>>
@@ -73,6 +98,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
 
 ::22
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1-yNjzUui3vZNHSDpaAnB-N1TsHFtv4uH" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Весь ульнесь чопода.">> <span class="text-rus">Ночь была тёмной.</span><</linkappend>> <<linkappend "Атясь мери:">> <span class="text-rus">Старик говорит:</span><</linkappend>>
 <<linkappend "- Монень мейс ваномс?">> <span class="text-rus">- Мне зачем следить?</span> <</linkappend>> <<linkappend "Монь лишмем ашо.">> <span class="text-rus">Моя лошадь белая.</span><</linkappend>> <<linkappend "Кодак стян - неса.">> <span class="text-rus">Как только встану - сразу увижу её.</span><</linkappend>> <<linkappend "Тон иля удо, вант, раужо алашат.">> <span class="text-rus">Ты не спи, смотри, твоя лошадь чёрная.</span><</linkappend>>
 <<linkappend "Попонть арасель мелезэ ваномс, сон мери:">> <span class="text-rus">У попа не было желания следить, он говорит:</span><</linkappend>>
@@ -86,6 +116,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
 
 ::33
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1N9KbI6bLfQHCjxRQx_bx71_D1BHYKtJc" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Валске стясть ды тусть седе тов.">> <span class="text-rus">Утром встали и отправились дальше.</span><</linkappend>>
 <<linkappend "Чинь-чоп мольсть.">> <span class="text-rus">Весь день шли.</span><</linkappend>> <<linkappend "Чокшне таго лоткасть паксяс удомо.">> <span class="text-rus">Вечером опять остановились в поле переночевать.</span><</linkappend>> <<linkappend "Ярсамкаст ульнесь ансяк ве сараз.">> <span class="text-rus">Из еды у них была только одна курица.</span><</linkappend>> <<linkappend "Кавонест а пешкедить пекест.">> <span class="text-rus">Двоим им не наеться (животы их не наполнить).</span><</linkappend>> <<linkappend "Кода теемс?">> <span class="text-rus">Как поступить?</span><</linkappend>>
 <<linkappend "Попось мери:">> <span class="text-rus">Поп говорит:</span><</linkappend>>
@@ -96,6 +131,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
 
 ::44
+<audio controls>
+    <source src="https://docs.google.com/uc?id=1gaKLhogJPLCPBdZwMgwty2YbEPanFh2V" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Попось стясь, стявтызе атянтькак ды кармась тензэ ёвтнеме, кодамо он несь.">> <span class="text-rus">Поп проснулся, разбудил старика и начал ему рассказывать, какой он сон увидел.</span><</linkappend>>
 <<linkappend "- Эх, мери, кодамо паро он неинь!">> <span class="text-rus">- Эх, говорит, какой я сон хороший видел.</span><</linkappend>> <<linkappend "Теке монь саимизь менель лангов.">> <span class="text-rus">Будто меня взяли на небеса.</span><</linkappend>> <<linkappend "Эх, кодамо паро тосо!">> <span class="text-rus">Эх, как хорошо там!</span><</linkappend>>
 <<linkappend "Атясь мери:">> <span class="text-rus">Старик отвечает:</span><</linkappend>>
