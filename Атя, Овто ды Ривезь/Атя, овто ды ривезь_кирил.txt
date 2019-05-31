@@ -1,0 +1,114 @@
+::start
+<center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
+<center><h3>Атя, Овто ды Ривезь</h3></center>\
+
+<center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
+<center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>
+<center><small>текст озвучивала Ольга Кондратьева</small></center>
+<center><small>звукорежиссер Никита Христосов</small></center>
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;Erzäks&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;Эрзякс</center>
+
+
+::1
+<audio controls>
+    <source src="" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
+<<linkappend "Эрясть-аштесть атят-бабат.">> <span class="text-rus">Жили-были старик со старухой.</span><</linkappend>> \
+<<linkappend "Сынст арасельть эйкакшост.">> <span class="text-rus">/И/ не было у них детей.</span><</linkappend>> \
+<<linkappend "Весть атясь тусь озимень видеме.">> <span class="text-rus">Однажды старик пошёл озимые сеять.</span><</linkappend>> \
+<<linkappend "Пачкодсь паксяв ды кармась сокамо.">> <span class="text-rus">Пришёл в поле и начал пахать.</span><</linkappend>>
+<<linkappend "Мольсь атянть ваксс овто ды мери:">> <span class="text-rus">/Тут/ подошёл к старику медведь и говорит:</span><</linkappend>> 
+<<linkappend "- Атя, а атя, мон алашат порьса.">> <span class="text-rus">- Старик, а старик, я твою лошадь сожру.</span><</linkappend>>
+<<linkappend "Атясь мери:">> <span class="text-rus">Старик отвечает:</span><</linkappend>> \
+<<linkappend ""Ужо, васня умам сокаса".">> <span class="text-rus">"Подожди, сначала участок свой (букв. "мой") вспашу".</span><</linkappend>>
+<<linkappend "Овтось мадсь крандаз алов ды учи,">> <span class="text-rus">Медведь лёг под телегу и ждёт,</span><</linkappend>> \
+<<linkappend "зярдо атясь сокасы уманзо.">> <span class="text-rus">когда старик вспашет участок свой (букв. "его").</span><</linkappend>> 
+
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
+
+::2
+<audio controls>
+    <source src="" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
+<<linkappend "Атянтень сась ривезь ды кевкстни:">> <span class="text-rus">К старику подошла лиса и спрашивает:</span><</linkappend>> \
+<<linkappend ""Атя, а атя, эзить нее овтыне".">> <span class="text-rus">Старик, а старик, не видел ты Мишеньку (овтыне - уменьш.-ласкательное от овто).</span><</linkappend>>
+<<linkappend "Овтось салавинька мери атянтень:">> <span class="text-rus">Медведь потихоньку говорит старику.</span><</linkappend>> \
+<<linkappend ""Мерть: эзинь нее".">> <span class="text-rus">"Скажи: не видела".</span><</linkappend>> 
+<<linkappend "Атясь мери: "Арась, ривеське, овтыне эзинь нее".">> <span class="text-rus">Старик отвечает: "Нет, лисонька, Мишеньку не видел".</span><</linkappend>>
+<<linkappend "Ривезесь мери: "Крандаз алот мезе?"">> <span class="text-rus">Лиса говорит: "/А/ а под телегой твоей что?"</span><</linkappend>>
+<<linkappend "Овтынесь салавинька мери: "Мерть: палозь мукорь".">> <span class="text-rus">Медведь потихоньку говорит: "Скажи: обгоревший пень".</span><</linkappend>>
+<<linkappend "Атинесь мери: "Те, ривеське, палозь мукорь".">> <span class="text-rus">Старик отвечает: "Это, лисонька, обгоревший пень".</span><</linkappend>>
+<<linkappend "Ривезесь мери: ">> <span class="text-rus">Лиса говорит:</span><</linkappend>> 
+<<linkappend ""Улевельдеря палозь мукорь, кепедевлик крандазонтень".">> <span class="text-rus">"Если /это/ был бы обгоревший пень, ты бы его поднял в телегу".</span><</linkappend>>
+<<linkappend "Овтось тошки атянтень: "Эно кепедемак".">> <span class="text-rus">Медведь шепчет старику: "Давай, поднимай".</span><</linkappend>>
+<<linkappend "Атясь кепедизе овтонть крандазонтень ды сюлмизе пикссэ.">> <span class="text-rus">Старик поднял медведя в телегу и привязал верёвками.</span><</linkappend>>
+<<linkappend "Ривезесь мери:">> <span class="text-rus">Лиса говорит:</span><</linkappend>> 
+<<linkappend "- Улевельдеря палозь мукорь, эйзэнзэ узере пезнавтозь улевель.">> <span class="text-rus">- Если /это/ был бы обгоревший пень, в него топор воткнут был бы.</span><</linkappend>>
+<<linkappend "Овтось мери атянтень: "Эно пезнавт".">> <span class="text-rus">Медведь говорит старику: "Давай, втыкай".</span><</linkappend>>
+
+<div class="zagolovok"><span class="text-gr">Улевельдеря</span> - "если был бы" - старинная форма условно-сослагательного наклонения</div>
+
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][11]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
+
+::3
+<audio controls>
+    <source src="" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
+<<linkappend "Ривезесь мери атянтень:">> <span class="text-rus">Лиса говорит старику:</span><</linkappend>> 
+<<linkappend "- Ней ёвтык, атине, кода пандсак паром?">> <span class="text-rus">- /А/ теперь скажи, старичок, как оплатишь добро моё?</span><</linkappend>>
+<<linkappend "Атинесь мери:">> <span class="text-rus">Старик отвечает:</span><</linkappend>>
+<<linkappend "- Сан уманть изамо, кандан теть нарвицька ципаканек.">> <span class="text-rus">- Приду участок /свой/ бороновать, принесу тебе несушку с цыплятами.</span><</linkappend>>
+<<linkappend "Сась атинесь кудов, тонгсь кескавс тюжа киска, ускизе паксяв ривезентень.">> <span class="text-rus">Пришёл старик домой, сунул в мешок рыжую собаку, привёз в поле лисе.</span><</linkappend>>
+<<linkappend "Ривезесь кевкстни:">> <span class="text-rus">Лиса спрашивает:</span><</linkappend>>
+<<linkappend "- Атине, кандыть монень нарвицька ципаканек?">> <span class="text-rus">- Старичок, принёс мне несушку с цыплятами?</span><</linkappend>>
+<<linkappend "- Кандынь, оно кескавсо.">> <span class="text-rus">- Принёс, вон, в мешке.</span><</linkappend>>
+<<linkappend "Ривезесь кармась кескавонть сезнеме.">> <span class="text-rus">Лиса стала рвать мешок.</span><</linkappend>> \
+<<linkappend "Кискась кода лиси ды напусти ривезенть мельга.">> <span class="text-rus">Собака как выпрыгнет (букв. "выйдет") и бегом (букв. "мчится") за лисой.</span><</linkappend>> \
+<<linkappend "Ривезесь арды эсензэ пизэс, кискась - мельганзо.">> <span class="text-rus">Лиса бежит в свою нору (пизэ - гнездо, нора, логово), собака вслед за ней.</span><</linkappend>> \
+<<linkappend "Ривезесь кенерсь совамо.">> <span class="text-rus">Лиса успела забежать.</span><</linkappend>> \
+<<linkappend "Кискась кадовсь.">> <span class="text-rus">Собака осталась.</span><</linkappend>>
+
+<div class="zagolovok"><span class="text-gr">нарвицька ципаканек</span> - "несушка с цыплятами" - форма т.н. совместительного падежа (по Евсевьеву). Оканчивается на <b>нек</b>, образуется от слов, \
+означающих совокупность нескольких предметов, связанных чем-либо в одно целое.</div>
+
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][22]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
+
+::4
+<audio controls>
+    <source src="" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
+<<linkappend "Ривезесь кевкстни сельмензэ:">> <span class="text-rus">Лиса спрашивает глаза свои:</span><</linkappend>>
+<<linkappend "- Сельминеть-дугинеть, кода тынь ванстыде монь эйсэ?">> <span class="text-rus">- Глаза мои, подруженьки, как вы защищали меня?</span><</linkappend>>
+<<linkappend "Сельмтне мерить:">> <span class="text-rus">Глаза отвечают:</span><</linkappend>>
+<<linkappend "- Минь яла ваннынек, кода а прамс.">> <span class="text-rus">- Мы постоянно смотрели, как не упасть.</span><</linkappend>>
+<<linkappend "Ривезесь мери:">> <span class="text-rus">Лиса отвечает:</span><</linkappend>>
+<<linkappend "- Мон тенк тень кисэ раман сельмукшт.">> <span class="text-rus">- Я вам за это куплю очки.</span><</linkappend>>
+<<linkappend "Мейле ривезесь кевкстинзе пильгензэ:">> <span class="text-rus">Затем лиса спрашивает свои лапы (букв. "ноги").</span><</linkappend>>
+<<linkappend "- Пильгть-дугинеть, кода тынь чииде?">> <span class="text-rus">- Лапки-подружки, как вы бежали?</span><</linkappend>>
+<<linkappend "Пильгтне мерить:">> <span class="text-rus">Лапки отвечают:</span><</linkappend>>
+<<linkappend "- Минь яла капшинек икелев, кода а понгомс кискантень.">> <span class="text-rus">- Мы всё время торопились вперёд, чтобы (букв. "как") не попаться собаке.</span><</linkappend>>
+<<linkappend "Ривезесь мери:">> <span class="text-rus">Лиса отвечает:</span><</linkappend>>
+<<linkappend "- Тень кисэ мон раман тенк кемть.">> <span class="text-rus">- За это я куплю вам сапоги.</span><</linkappend>>
+<<linkappend "Мейле ривезесь кевкстизе пулонзо:">> <span class="text-rus">Затем лиса спросила хвост свой:</span><</linkappend>>
+<<linkappend "- Пуло, а пуло, кода тон монь эйсэ ванстыть?">> <span class="text-rus">- Хвост, а хвост, как ты меня защищал?</span><</linkappend>>
+<<linkappend "Пулось мери:">> <span class="text-rus">Хвост отвечает:</span><</linkappend>>
+<<linkappend "- Мон яла керчавинь пильгеть юткс ды арсинь,">> <span class="text-rus">- Я постоянно путался между ног и думал,</span><</linkappend>> \
+<<linkappend "кода тонь правтомс, кадык кискась поревлинзеть.">> <span class="text-rus">как тебя уронить, чтобы (букв. "пусть") собака съела тебя.</span><</linkappend>>
+<<linkappend "Ривезенть састь кежензэ.">> <span class="text-rus">Лиса разозлилась.</span><</linkappend>> \
+<<linkappend "Пулонть ливтизе ушов ды серьгедсь:">> <span class="text-rus">Вытащила хвост на улицу и крикнула:</span><</linkappend>>
+<<linkappend "- На, киска, сэвик!">> <span class="text-rus">- На, собака, ешь!</span><</linkappend>>
+<<linkappend "Кискась кундызе пулонть, ривезенть таргизе ды сэвизе.">> <span class="text-rus">Собака поймала хвост, вытащила лису и съела.</span><</linkappend>>
+
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]
