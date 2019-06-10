@@ -27,7 +27,7 @@
 <<linkappend "zärdо atäś sоkasy umanzо. ">><span class="text-rus">когда старик вспашет участок свой (букв. "его").</span><</linkappend>> 
 
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
 
 ::2
 <audio controls>
@@ -53,8 +53,8 @@
 
 <div class="zagolovok_2"><span class="text-gr">Uleveĺderä</span> - "если был бы" - старинная форма условно-сослагательного наклонения</div>
 
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][11]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][1]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
 
 ::3
 <audio controls>
@@ -79,8 +79,8 @@
 <div class="zagolovok_2"><span class="text-gr">narvićka cipakanek</span> - "несушка с цыплятами" - форма т.н. совместительного падежа (по Евсевьеву). Оканчивается на <b>nek</b>, образуется от слов, \
 означающих совокупность нескольких предметов, связанных чем-либо в одно целое.</div>
 
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][22]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][2]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
 
 ::4
 <audio controls>
@@ -110,4 +110,4 @@
 <<linkappend "- Na, kiska, sěvik! ">><span class="text-rus">- На, собака, ешь!</span><</linkappend>>
 <<linkappend "Kiskaś kundyze pulоnt́, rivezent́ targize dy sěvize. ">><span class="text-rus">Собака поймала хвост, вытащила лису и съела.</span><</linkappend>>
 
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]
