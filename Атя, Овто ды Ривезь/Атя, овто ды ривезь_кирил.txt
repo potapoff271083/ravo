@@ -11,7 +11,7 @@
 
 ::11
 <audio controls>
-    <source src="" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=1ugtKRkUN9MFN-2523ZGH-g8rMQfK4SW0" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
@@ -31,7 +31,7 @@
 
 ::22
 <audio controls>
-    <source src="" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=1FPLpATWeLp8RUYZ25n9Bkm4-1olYeSDf" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
@@ -58,7 +58,7 @@
 
 ::33
 <audio controls>
-    <source src="" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=1PXqIgMBS-lipwS7TNmkAZct73UysI6kM" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
@@ -84,7 +84,7 @@
 
 ::44
 <audio controls>
-    <source src="" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=116QZZm0LXdnSOIyafSLpJF9bJ3tArSQk" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
