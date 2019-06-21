@@ -1,0 +1,74 @@
+::start
+<center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
+<center><h3>Атине ды ривеське</h3></center>\
+
+<center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
+<center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>\
+
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Erzäks|1]]&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
+
+::1
+<<linkappend "Eräst́-aštest́ atät-babat kavоnest. ">><span class="text-rus">Жили-были старик со старухой вдвоём.</span><</linkappend>> \
+<<linkappend "Atäś tejś ileeń keptere dy tuś kalоń kundamо. ">><span class="text-rus">Старик сделал ивовую корзину и пошёл рыбу ловить.</span><</linkappend>> \
+<<linkappend "Keptereś peškedś kaldо. ">><span class="text-rus">Корзина наполнилась рыбой.</span><</linkappend>> \
+<<linkappend "Atäś pоngavtyze kepterent́ kut́merezěnzě dy tuś kudоv. ">><span class="text-rus">Старик повесил корзину на спину (букв. "к спине") и отправился домой.</span><</linkappend>> \
+<<linkappend "Neize sоnzě riveśke, ">><span class="text-rus">Увидела его лиса,</span><</linkappend>> \
+<<linkappend "madś ki langs dy teize pränzо kulyks. ">><span class="text-rus">легла на дорогу и притворилась мёртвой.</span><</linkappend>> \
+<<linkappend "Atäś kepedize riveśkent́, putyze kepterenteń dy tuś tagо kijava. ">><span class="text-rus">Старик поднял лису, положил её в корзину и снова пошёл по дороге.</span><</linkappend>> 
+<<linkappend "Riveśkeś kajsinze kaltněń kepternestěnt́ ki langs dy sоnś valgś. ">><span class="text-rus">Лиса разбросала /всю/ рыбу из корзины на дорогу и сама слезла.</span><</linkappend>> 
+<<linkappend "Atäś saś kudоv, ">><span class="text-rus">Старик пришёл домой,</span><</linkappend>> \
+<<linkappend "putyze kepterenzě kudykelev dy meri babanstěń: ">><span class="text-rus">положил корзину в сени и говорит своей бабке:</span><</linkappend>> 
+<<linkappend "- List́, baba, sait́ kepteŕstěnt́ kaltněń dy riveśkent́! ">><span class="text-rus">Выходи, бабка, возьми из корзину рыбу и лису.</span><</linkappend>> 
+<<linkappend "Lisś babaś, varštaś kepterenteń - ">><span class="text-rus">Вышла бабка, взглянула в корзину -</span><</linkappend>> \
+<<linkappend "tоsо mezejak araś. ">><span class="text-rus">там ничего нет.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">ilej</span> - ива прутовидная (корзиночная);
+<span class="text-gr">prä teems</span> - притвориться, сделать вид.</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
+
+::2
+<<linkappend "Riveśkeś purnynze kaltněń, ">><span class="text-rus">Лиса собрала /всю/ эту рыбу,</span><</linkappend>> \
+<<linkappend "kuzś šteme präs dy jarsy. ">><span class="text-rus">забралась на стог /соломы/ и ест.</span><</linkappend>> 
+<<linkappend "Juty vakskanzо veŕgiz dy meri: ">><span class="text-rus">Проходит мимо неё волк и говорит:</span><</linkappend>> 
+<<linkappend "Mezde jarsat, riveź? ">><span class="text-rus">Что кушаешь, лиса?</span><</linkappend>> 
+<<linkappend "- Kaldо! ">><span class="text-rus">Рыбу!</span><</linkappend>> 
+<<linkappend "- Kоstо sait́? ">><span class="text-rus">Откуда взяла?</span><</linkappend>> 
+<<linkappend "- Kundyń! ">><span class="text-rus">Поймала!</span><</linkappend>> 
+<<linkappend "Tuka mоneń vejkeška. ">><span class="text-rus">Дайка мне одну.</span><</linkappend>> 
+<<linkappend "- Aj-aj! Azö tоnś kundak! ">><span class="text-rus">Ай-ай! Иди сам лови!</span><</linkappend>> 
+<<linkappend "- A maštan. ">><span class="text-rus">Не умею.</span><</linkappend>> 
+<<linkappend "Tоnavtоmak, kоda kundams! ">><span class="text-rus">Научи меня, как ловить!</span><</linkappend>> 
+<<linkappend "- Azö salak kоstojak keptere, ">><span class="text-rus">Иди укради откуда-нибудь корзину,</span><</linkappend>> \
+<<linkappend "sülmik pulоzоt dy nоldyk venzě langs anksemas. ">><span class="text-rus">привяжи к своему хвосту и опусти его на ночь в прорубь.</span><</linkappend>> \
+<<linkappend "Keptereś peškedi kaldо. ">><span class="text-rus">Корзина наполниться рыбой.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">šteme</span> - копна, стог (сена, соломы);
+<span class="text-gr">šteme prä</span> - верх копны.</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][1]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
+
+::3
+<<linkappend "Veŕgizěś salaś keptere, ">><span class="text-rus">Волк украл корзину,</span><</linkappend>> \
+<<linkappend "sülmize pulоzоnzо dy nоldyze venzě langs anksemas. ">><span class="text-rus">привязал к своему хвосту и опустил на ночь в прорубь.</span><</linkappend>> 
+<<linkappend "Veńbert́ keĺmeś pulоzо anksemanteń. ">><span class="text-rus">За ночь примёрз его хвост к проруби.</span><</linkappend>> 
+<<linkappend "Valske sast́ avat ved́s dy adä veŕgizěnt́ čavоmо. ">><span class="text-rus">Утром пришли женщины за водой и давай волка бить.</span><</linkappend>> \
+<<linkappend "Veŕgizěś tej nоck, tоv nоck! ">><span class="text-rus">Волк сюда дёрнулся, туда дёрнулся.</span><</linkappend>> \
+<<linkappend "Sezize pulоnzо dy оrgоdś virev. ">><span class="text-rus">Вырвал хвост и убежал в лес.</span><</linkappend>> 
+<<linkappend "Riveześ se škane mоĺś velev, ">><span class="text-rus">Лиса в это время пришла в село,</span><</linkappend>> \
+<<linkappend "sоvaś ve babineń kudоs, ">><span class="text-rus">зашла в дом к одной бабке,</span><</linkappend>> \
+<<linkappend "vadnize pränzо čapakssо dy ardy. ">><span class="text-rus">обмазала голову свою тестом и убежала.</span><</linkappend>> 
+<<linkappend "Pоngś karšоzоnzо pulоvtоmо veŕgizěś dy meri: ">><span class="text-rus">Попался ей навстречу бесхвостый волк и говорит:</span><</linkappend>> 
+<<linkappend "- Riveź, mоn sěvtän, mejs manimik? ">><span class="text-rus">- Лиса, я съем тебя, зачем обманула меня?</span><</linkappend>> 
+<<linkappend "- Oh, veŕgiz, mоnśkak cüt́ a kulan! ">><span class="text-rus">- Ох, волк, я и сама чуть не умираю!</span><</linkappend>> \
+<<linkappend "Jakiń velev sarazоń salamо - vese präm pоrksyź! ">><span class="text-rus">Ходила в село курей воровать - всю голову мою разклевали (букв. "разбили")!</span><</linkappend>> \
+<<linkappend "Nesak, udememgak ušоv lisst́. ">><span class="text-rus">Посмотри, мозги мои наружу вылезли (букв. "вышли").</span><</linkappend>> 
+<<linkappend "Adä kandоmak šteme vakss dy tоsо sěvemak enо. ">><span class="text-rus">Айда, отнесёшь меня к стогу сена и там точно съешь.</span><</linkappend>> 
+<<linkappend "Veŕgizěś kandyze riveśkent́ šteme vakss. ">><span class="text-rus">Волк принёс лису к стогу.</span><</linkappend>> \
+<<linkappend "Riveśkeś kirnävtś оlgо štement́ präs, ">><span class="text-rus">Лиса запрыгнула на вершину стога соломы,</span><</linkappend>> \
+<<linkappend "veŕgizěś kadоvś alо. ">><span class="text-rus">волк остался внизу.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">nоck</span> - нареч.-изобр. слово, передающее быстрое действие;
+<span class="text-gr">nоckadems</span> - дёрнуть, вырвать.</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][2]]
