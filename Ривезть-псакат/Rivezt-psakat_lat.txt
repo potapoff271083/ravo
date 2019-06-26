@@ -8,43 +8,43 @@
 <center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Erzäks|1]]&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
 
-11::
-<<linkappend "Весть псака лиссь вирьга якамо. ">><span class="text-rus">Однажды кот пошёл в лес погулять.</span><</linkappend>> \
-<<linkappend "Вана каршозонзо ривезь понгсь ды корты тензэ: ">><span class="text-rus">Вот ей навстречу попадается лиса и говорит ей:</span><</linkappend>> 
-<<linkappend "- Тонь леметь кода? ">><span class="text-rus">- Как тебя зовут (букв. "твоё имя какое")?</span><</linkappend>> 
-<<linkappend "Псака ёвтась тензэ: ">><span class="text-rus">Кот отвечает ей:</span><</linkappend>> 
-<<linkappend "- Монь лемем Кот Иваныч. ">><span class="text-rus">- Меня зовут Кот Иваныч.</span><</linkappend>> \
-<<linkappend "Тонь кода леметь? ">><span class="text-rus">Тебя как зовут?</span><</linkappend>> 
-<<linkappend "- Лиса Иваныч,- ёвтась тензэ ривезь. ">><span class="text-rus">Лиса Иваныч, - отвечает ему лиса.</span><</linkappend>> \
-<<linkappend "Мейле ривезь мерсь тензэ: ">><span class="text-rus">После лиса говорит ему:</span><</linkappend>> 
-<<linkappend "- Адя, Кот Иваныч, вейсэ эрямо. ">><span class="text-rus">- Айда, Кот Иваныч, вместе жить.</span><</linkappend>> 
-<<linkappend "- Адя! - мерсь псака. ">><span class="text-rus">- Айда! - говорит кот.</span><</linkappend>> 
-<<linkappend "Тусть эрямо псакань кудос. ">><span class="text-rus">Пошли они жить в дом кота.</span><</linkappend>> 
+1::
+<<linkappend "Vest́ psaka lisś viŕga jakamо. ">><span class="text-rus">Однажды кот пошёл в лес погулять.</span><</linkappend>> \
+<<linkappend "Vana karšоzоnzо riveź pоngś dy kоrty tenzě: ">><span class="text-rus">Вот ей навстречу попадается лиса и говорит ей:</span><</linkappend>> 
+<<linkappend "- Tоń lemet́ kоda? ">><span class="text-rus">- Как тебя зовут (букв. "твоё имя какое")?</span><</linkappend>> 
+<<linkappend "Psaka jovtaś tenzě: ">><span class="text-rus">Кот отвечает ей:</span><</linkappend>> 
+<<linkappend "- Mоń lemem Kоt Ivanyč. ">><span class="text-rus">- Меня зовут Кот Иваныч.</span><</linkappend>> \
+<<linkappend "Tоń kоda lemet́? ">><span class="text-rus">Тебя как зовут?</span><</linkappend>> 
+<<linkappend "- Lisa Ivanyč,- jovtaś tenzě riveź. ">><span class="text-rus">Лиса Иваныч, - отвечает ему лиса.</span><</linkappend>> \
+<<linkappend "Mejle riveź merś tenzě: ">><span class="text-rus">После лиса говорит ему:</span><</linkappend>> 
+<<linkappend "- Adä, Kоt Ivanyč, vejsě erämо. ">><span class="text-rus">- Айда, Кот Иваныч, вместе жить.</span><</linkappend>> 
+<<linkappend "- Adä! - merś psaka. ">><span class="text-rus">- Айда! - говорит кот.</span><</linkappend>> 
+<<linkappend "Tust́ erämо psakań kudоs. ">><span class="text-rus">Пошли они жить в дом кота.</span><</linkappend>> 
 
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
 
-22::
-<<linkappend "Весть ривезь тусь вирьга якамо. ">><span class="text-rus">Однажды лиса пошла в лес погулять.</span><</linkappend>> \
-<<linkappend "Яки сон вирьга, каршозонзо понгсь овто. ">><span class="text-rus">Ходит она по лесу, навстречу ей попался медведь.</span><</linkappend>> \
-<<linkappend "Овтось мери тензэ. ">><span class="text-rus">Медведь говорит ей.</span><</linkappend>> 
-<<linkappend "- Мон тонь, ривезь, сэвтян! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
-<<linkappend "Ривезь каршонзо: ">><span class="text-rus">Лиса в ответ ему:</span><</linkappend>> 
-<<linkappend "- Монь мирдем ули, Кот Иваныч: ">><span class="text-rus">- У меня муж мой есть, Кот Иваныч:</span><</linkappend>> \
-<<linkappend "тон сонзэ пильге алдо сэксэнзэяк а аштят! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
-<<linkappend "Овто тандадсь ды тусь. ">><span class="text-rus">Медведь испугался и пошёл /дальше/.</span><</linkappend>> \
-<<linkappend "Мейле ривезень каршо верьгиз понгсь ды мери: ">><span class="text-rus">После лисе навстречу попался волк и говорит:</span><</linkappend>> 
-<<linkappend "- Мон тонь, ривезь, сэвтян! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
-<<linkappend "Ривезь мери тензэ: ">><span class="text-rus">Лиса отвечает ему: Лиса говорит ему:</span><</linkappend>> 
-<<linkappend "- Монь мирдем ули, Кот Иваныч, ">><span class="text-rus">- У меня есть муж, Кот Иваныч,</span><</linkappend>> \
-<<linkappend "тон сонзэ пильге алдо сэксэнзэяк а аштят! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
-<<linkappend "Верьгиз, неть валтнэнь марязь, пек тандадсь. ">><span class="text-rus">Волк, услышав эти слова, очень испугался.</span><</linkappend>> 
+2::
+<<linkappend "Vest́ riveź tuś viŕga jakamо. ">><span class="text-rus">Однажды лиса пошла в лес погулять.</span><</linkappend>> \
+<<linkappend "Jaki sоn viŕga, karšоzоnzо pоngś оvtо. ">><span class="text-rus">Ходит она по лесу, навстречу ей попался медведь.</span><</linkappend>> \
+<<linkappend "Ovtоś meri tenzě. ">><span class="text-rus">Медведь говорит ей.</span><</linkappend>> 
+<<linkappend "- Mоn tоń, riveź, sěvtän! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
+<<linkappend "Riveź karšоnzо: ">><span class="text-rus">Лиса в ответ ему:</span><</linkappend>> 
+<<linkappend "- Mоń mirdem uli, Kоt Ivanyč: ">><span class="text-rus">- У меня муж мой есть, Кот Иваныч:</span><</linkappend>> \
+<<linkappend "tоn sоnzě piĺge aldо sěksěnzějak a aštät! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
+<<linkappend "Ovtо tandadś dy tuś. ">><span class="text-rus">Медведь испугался и пошёл /дальше/.</span><</linkappend>> \
+<<linkappend "Mejle rivezeń karšо veŕgiz pоngś dy meri: ">><span class="text-rus">После лисе навстречу попался волк и говорит:</span><</linkappend>> 
+<<linkappend "- Mоn tоń, riveź, sěvtän! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
+<<linkappend "Riveź meri tenzě: ">><span class="text-rus">Лиса отвечает ему: Лиса говорит ему:</span><</linkappend>> 
+<<linkappend "- Mоń mirdem uli, Kоt Ivanyč, ">><span class="text-rus">- У меня есть муж, Кот Иваныч,</span><</linkappend>> \
+<<linkappend "tоn sоnzě piĺge aldо sěksěnzějak a aštät! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
+<<linkappend "Veŕgiz, net́ valtněń maräź, pek tandadś. ">><span class="text-rus">Волк, услышав эти слова, очень испугался.</span><</linkappend>> 
 
 <div class="zagolovok_2"><span class="text-gr">сэкс</span> - грязь, пот; запах грязи (пота).</div>
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][11]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][1]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
 
-33::
+3::
 <<linkappend "Мейле ривезень каршо понгсь нумоло ды корты: ">><span class="text-rus">Потом лисе навстречу попался заяц и говорит:</span><</linkappend>> 
 <<linkappend "Ривезь, мон тонь сэвтян! ">><span class="text-rus">Лиса, я тебя съем!</span><</linkappend>> 
 <<linkappend "- Аштека, ужо, нумоло-парочи, ве вал ёвтан тенть: ">><span class="text-rus">- Постой-ка, подожди, зайка-золотцо, одно слово скажу тебе:</span><</linkappend>> \
@@ -66,10 +66,10 @@
 
 <div class="zagolovok_2"><span class="text-gr">парочи</span> - имущество, богатство;
 <span class="text-gr">куршт-каршт (курчт-карчт)</span> - сучья.</div>
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][22]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][2]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
 
-44::
+4::
 <<linkappend "Вана сынь тейсть пир. ">><span class="text-rus">Вот они сделали пир.</span><</linkappend>> \
 <<linkappend "Овто тусь ривезень мирдензэ марто тердеме. ">><span class="text-rus">Медведь пошёл лису с мужем её звать.</span><</linkappend>> \
 <<linkappend "Сась овто вальмалов, кармась сеереме: ">><span class="text-rus">Подошёл медведь под окна, стал кричать:</span><</linkappend>> 
@@ -94,10 +94,10 @@
 <<linkappend "Учить, учить - а сыть. ">><span class="text-rus">Ждут, ждут - не идут.</span><</linkappend>> 
 
 <div class="zagolovok_2"><span class="text-gr">тапарямс</span> - заворачивать, оборачивать.</div>
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][55]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][5]]
 
-55::
+5::
 <<linkappend "Мейле нумоло тусь. ">><span class="text-rus">После заяц пошёл.</span><</linkappend>> \
 <<linkappend "Сась ривезнень, кармась сеереме: ">><span class="text-rus">Пришёл к лисе стал кричать:</span><</linkappend>> 
 <<linkappend "- Ривезь, а ривезь! ">><span class="text-rus">Лиса, а лиса!</span><</linkappend>> \
@@ -123,4 +123,4 @@
 
 <div class="zagolovok_2"><span class="text-gr">эшкемс пря ланга</span> - как обухом по голове;
 <span class="text-gr">сралемс</span> - расходиться, распространяться.</div>
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][44]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][4]]
