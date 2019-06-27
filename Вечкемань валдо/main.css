@@ -1,0 +1,98 @@
+body {    background-image: url(https://docs.google.com/uc?id=1N2ZFk7KXWVk0svEpl68Z6kVFVzPy6BgJ);
+          background-color: white; 
+     }
+
+.grammatika { background-color: white;    /* Fоnоvyj cvet gramm. pravil */
+              
+            } 
+.zagolovok { background-color: #f0f0f0;
+             padding: 5%;
+             }
+
+.zagolovok_2 { background-color: #f0f0f0;
+  padding: 2%;
+  font-size: smaller;
+              }
+
+#stroka {
+font-family: courier; text-shadow: 0.3px 0.3px 0.7px black;
+}
+
+#ui-bar { background: #fc39c0;  
+ } /* Fonovyj cvet levoj kolonki */
+
+img {
+  border-radius: 8px;
+}
+
+.passage { font-family: Times New Roman; 
+           color: #000000;
+           background-color: rgba(255,255,255,0.85);
+           padding: 10% 5%;
+           border: none;
+           border-radius: none; }
+
+.passage a {color: #000000;}
+
+.passage .link-broken { color: black; }
+
+.text-rus { color: blue; font-size: smaller; }
+
+.valks { color: green; }
+
+.text-gr { color: blue; } /* Cvet erz. teksta v gramm. pravilah */
+
+#story-title { 
+font-family: courier; color: #d7ff6b; text-shadow: 0.7px 0.7px 1.5px black;} /* Čvet zagolovka v levoj kolonke */
+
+
+a:hover { border-bottom: 1px dashed #000000; 
+  text-decoration: none; }
+
+  /* tablicy */
+
+table {
+  border-collapse: collapse; /* Ubiraet dvojnye linii */
+  width: 100%; /* Sirina tablicy */
+  }
+
+td {
+  border: 1px solid #000; /* Parametry granic */
+  text-align: center; 
+    }
+
+th {
+  background: #dfebb7;
+  border: 1px solid #000; /* Parametry granic */
+    }
+
+tr:nth-child(even) {
+  background: #f0f0f0; /* Zebra */
+}
+
+caption {
+  font-style: italic;
+}
+
+/* svaracivaemyj tekst */
+
+details summary {
+  display: block;  /* u summary po umolcaniu svojstvo display v znacenii list-item, potomu podderzivaetsa svojstvo list-style */
+  width: 10em;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;  /* blok raskryvaetsa pri cselcke po knopke, a ne po vsej stroke */
+  outline-style: none;  /* udalit? obvodku pri fokuse */
+  cursor: pointer;
+}
+/*
+details summary::-webkit-details-marker {  /* nestadartnyj psevdoelement Google Chrome */
+  display: none;
+}
+*/
+
+
+
+
+
+
