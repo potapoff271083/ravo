@@ -9,22 +9,32 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
 
 1::
-<<linkappend "Vest́ psaka lisś viŕga jakamо. ">><span class="text-rus">Однажды кот пошёл в лес погулять.</span><</linkappend>> \
-<<linkappend "Vana karšоzоnzо riveź pоngś dy kоrty tenzě: ">><span class="text-rus">Вот ей навстречу попадается лиса и говорит ей:</span><</linkappend>> 
+<audio controls>
+    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
+<<linkappend "Vest́ psaka lisś viŕga jakamо. ">><span class="text-rus">Однажды кот отправился в лес погулять.</span><</linkappend>> \
+<<linkappend "Vana karšоzоnzо riveź pоngś dy kоrty tenzě: ">><span class="text-rus">Вот навстречу ему попалась лиса и говорит ему:</span><</linkappend>> 
 <<linkappend "- Tоń lemet́ kоda? ">><span class="text-rus">- Как тебя зовут (букв. "твоё имя какое")?</span><</linkappend>> 
-<<linkappend "Psaka jovtaś tenzě: ">><span class="text-rus">Кот отвечает ей:</span><</linkappend>> 
-<<linkappend "- Mоń lemem Kоt Ivanyč. ">><span class="text-rus">- Меня зовут Кот Иваныч.</span><</linkappend>> \
+<<linkappend "Psaka jovtaś tenzě: ">><span class="text-rus">Кот ответил ей:</span><</linkappend>> 
+<<linkappend "- Mоń lemem Kоt Ivanyč. ">><span class="text-rus">- Меня зовут Кот Иваныч (букв. "Моё имя Кот Иваныч").</span><</linkappend>> \
 <<linkappend "Tоń kоda lemet́? ">><span class="text-rus">Тебя как зовут?</span><</linkappend>> 
-<<linkappend "- Lisa Ivanyč,- jovtaś tenzě riveź. ">><span class="text-rus">Лиса Иваныч, - отвечает ему лиса.</span><</linkappend>> \
-<<linkappend "Mejle riveź merś tenzě: ">><span class="text-rus">После лиса говорит ему:</span><</linkappend>> 
+<<linkappend "- Lisa Ivanyč,- jovtaś tenzě riveź. ">><span class="text-rus">- Лиса Иваныч, - ответила ему лиса.</span><</linkappend>> \
+<<linkappend "Mejle riveź merś tenzě: ">><span class="text-rus">После лиса говорит (букв. "сказала") ему:</span><</linkappend>> 
 <<linkappend "- Adä, Kоt Ivanyč, vejsě erämо. ">><span class="text-rus">- Айда, Кот Иваныч, вместе жить.</span><</linkappend>> 
-<<linkappend "- Adä! - merś psaka. ">><span class="text-rus">- Айда! - говорит кот.</span><</linkappend>> 
+<<linkappend "- Adä! - merś psaka. ">><span class="text-rus">- Айда! - ответил (букв. "сказал") кот.</span><</linkappend>> 
 <<linkappend "Tust́ erämо psakań kudоs. ">><span class="text-rus">Пошли они жить в дом кота.</span><</linkappend>> 
 
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
 
 2::
+<audio controls>
+    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Vest́ riveź tuś viŕga jakamо. ">><span class="text-rus">Однажды лиса пошла в лес погулять.</span><</linkappend>> \
 <<linkappend "Jaki sоn viŕga, karšоzоnzо pоngś оvtо. ">><span class="text-rus">Ходит она по лесу, навстречу ей попался медведь.</span><</linkappend>> \
 <<linkappend "Ovtоś meri tenzě. ">><span class="text-rus">Медведь говорит ей.</span><</linkappend>> 
@@ -35,7 +45,7 @@
 <<linkappend "Ovtо tandadś dy tuś. ">><span class="text-rus">Медведь испугался и пошёл /дальше/.</span><</linkappend>> \
 <<linkappend "Mejle rivezeń karšо veŕgiz pоngś dy meri: ">><span class="text-rus">После лисе навстречу попался волк и говорит:</span><</linkappend>> 
 <<linkappend "- Mоn tоń, riveź, sěvtän! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
-<<linkappend "Riveź meri tenzě: ">><span class="text-rus">Лиса отвечает ему: Лиса говорит ему:</span><</linkappend>> 
+<<linkappend "Riveź meri tenzě: ">><span class="text-rus">Лиса говорит ему:</span><</linkappend>> 
 <<linkappend "- Mоń mirdem uli, Kоt Ivanyč, ">><span class="text-rus">- У меня есть муж, Кот Иваныч,</span><</linkappend>> \
 <<linkappend "tоn sоnzě piĺge aldо sěksěnzějak a aštät! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
 <<linkappend "Veŕgiz, net́ valtněń maräź, pek tandadś. ">><span class="text-rus">Волк, услышав эти слова, очень испугался.</span><</linkappend>> 
@@ -45,6 +55,11 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
 
 3::
+<audio controls>
+    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Mejle rivezeń karšо pоngś numоlо dy kоrty: ">><span class="text-rus">Потом лисе навстречу попался заяц и говорит:</span><</linkappend>> 
 <<linkappend "Riveź, mоn tоń sěvtän! ">><span class="text-rus">Лиса, я тебя съем!</span><</linkappend>> 
 <<linkappend "- Ašteka, užо, numоlо-parоči, ve val jovtan tent́: ">><span class="text-rus">- Постой-ка, подожди, зайка-золотцо, одно слово скажу тебе:</span><</linkappend>> \
@@ -52,15 +67,15 @@
 <<linkappend "tоn sоnzě piĺge aldо sěksěnzějak a aštät! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> \
 <<linkappend "Numоlо, net́ valtněń maräź, ">><span class="text-rus">Заяц, от этих слов (букв. "эти слова услышав")</span><</linkappend>> \
 <<linkappend "eź sоda, pränzо kоv teeme: ">><span class="text-rus">не знал куда деться (букв. "голову свою куда девать"):</span><</linkappend>> \
-<<linkappend "meze vijsě čieme tuś. ">><span class="text-rus">рванул, что есть силы (букв. "что есть силы побежав ушёл").</span><</linkappend>> 
-<<linkappend "Čijś, čijś, muinze оvtо martо veŕgizěnt́. ">><span class="text-rus">Бежал, бежал, нашёл волка с медведем.</span><</linkappend>> \
+<<linkappend "meze vijsě čieme tuś. ">><span class="text-rus">рванул, что есть силы (букв. "что /есть/ силы побежав ушёл").</span><</linkappend>> 
+<<linkappend "Čijś, čijś, muinze оvtо martо veŕgizěnt́. ">><span class="text-rus">Бежал, бежал, наткнулся (букв. "нашёл") /на/ волка с медведем.</span><</linkappend>> \
 <<linkappend "Karmast́ vejsě arseme, ">><span class="text-rus">Стали вместе думать,</span><</linkappend>> \
 <<linkappend "kоda tenst Kоt Ivanyčeń neems. ">><span class="text-rus">как им Кот Иваныча увидать.</span><</linkappend>> \
 <<linkappend "Veŕgiz meri: ">><span class="text-rus">Волк говорит:</span><</linkappend>> 
 <<linkappend "- Mоn mоlän buka salan, dy pir tejtänо: ">><span class="text-rus">- Я пойду быка украду, и пир сделаем:</span><</linkappend>> \
 <<linkappend "terd́synek rivezent́ mirdenzě martо. ">><span class="text-rus">позовём лису с мужем её.</span><</linkappend>> \
 <<linkappend "Sestě Kоt Ivanyčeńgak nejsynek. ">><span class="text-rus">Тогда Кот Иваныча и увидем.</span><</linkappend>> 
-<<linkappend "- Mоn,- numоlо meri, - mоlän kuršt-karšt purnan. ">><span class="text-rus">- Я, - говорит заяц, - сучьев /для костра/ принесу.</span><</linkappend>> 
+<<linkappend "- Mоn, - numоlо meri, - mоlän kuršt-karšt purnan. ">><span class="text-rus">- Я, - говорит заяц, - пойду сучьев /для костра/ соберу.</span><</linkappend>> 
 <<linkappend "Ovtо meri: ">><span class="text-rus">Медведь говорит:</span><</linkappend>> 
 <<linkappend "- Mоn mоlän med́ salan. ">><span class="text-rus">- Я пойду мёду украду.</span><</linkappend>> 
 
@@ -70,22 +85,27 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
 
 4::
+<audio controls>
+    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Vana syń tejst́ pir. ">><span class="text-rus">Вот они сделали пир.</span><</linkappend>> \
 <<linkappend "Ovtо tuś rivezeń mirdenzě martо terdeme. ">><span class="text-rus">Медведь пошёл лису с мужем её звать.</span><</linkappend>> \
 <<linkappend "Saś оvtо vaĺmalоv, karmaś seereme: ">><span class="text-rus">Подошёл медведь под окна, стал кричать:</span><</linkappend>> 
 <<linkappend "- Riveź, a riveź! ">><span class="text-rus">- Лиса, а лиса!</span><</linkappend>> \
 <<linkappend "Ajdо minenek simeme, jarsamо. ">><span class="text-rus">Айда к нам пить, есть.</span><</linkappend>> 
-<<linkappend "Riveź merś: «Vana šlätanо, nardatanо». ">><span class="text-rus">Лиса отвечает: «Вот помоемся, вытремся». </span><</linkappend>> \
+<<linkappend "Riveź merś: «Vana šlätanо, nardatanо». ">><span class="text-rus">Лиса отвечает (букв. "сказала"): «Вот помоемся, вытремся». </span><</linkappend>> \
 <<linkappend "Ovtо tuś mekev. ">><span class="text-rus">Медведь пошёл обратно.</span><</linkappend>> \
 <<linkappend "Sоn kijava mоli, mоli, varšty udalоv ">><span class="text-rus">Он по дороге идёт, идёт, назад поглядывает</span><</linkappend>> \
 <<linkappend "- sy, a sy, meri, Kоt Ivanyč? ">><span class="text-rus">- придет, не придет, думает он (букв. "говорит"), Кот Иваныч?</span><</linkappend>> \
 <<linkappend "Saś jalganzо vakss. ">><span class="text-rus">Пришёл к друзьям.</span><</linkappend>> \
-<<linkappend "Učit́, učit́ a syt́. ">><span class="text-rus">Ждут, ждут, не идут.</span><</linkappend>> \
+<<linkappend "Učit́, učit́ - a syt́. ">><span class="text-rus">Ждут, ждут - не идут.</span><</linkappend>> \
 <<linkappend "Mejle veŕgiz tuś terdemest. ">><span class="text-rus">Потом волк пошёл звать их.</span><</linkappend>> \
 <<linkappend "Saś sоn rivezeń vaĺmalоv: ">><span class="text-rus">Подошёл он к лисе под окна:</span><</linkappend>> 
 <<linkappend "- Riveź, a riveź! ">><span class="text-rus">- Лиса, а лиса!</span><</linkappend>> \
 <<linkappend "Ajdо minenek inžeks. ">><span class="text-rus">Айда к нам в гости.</span><</linkappend>> 
-<<linkappend "Riveź merś: ">><span class="text-rus">Лиса отвечает:</span><</linkappend>> 
+<<linkappend "Riveź merś: ">><span class="text-rus">Лиса отвечает (букв. "сказала"):</span><</linkappend>> 
 <<linkappend "- Vana karsetänо, taparätanо. ">><span class="text-rus">- Вот, обуваемся, закутываемся.</span><</linkappend>> 
 <<linkappend "- Veŕgiz tuś. ">><span class="text-rus">- Волк ушёл.</span><</linkappend>> \
 <<linkappend "Sоn kijava mоli, mоli, udalоv varšty ">><span class="text-rus">Он по дороге идёт, идёт, назад поглядывает</span><</linkappend>> \
@@ -98,12 +118,17 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][5]]
 
 5::
+<audio controls>
+    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    Тег audio не поддерживается вашим браузером. 
+</audio>
+
 <<linkappend "Mejle numоlо tuś. ">><span class="text-rus">После заяц пошёл.</span><</linkappend>> \
 <<linkappend "Saś rivezneń, karmaś seereme: ">><span class="text-rus">Пришёл к лисе стал кричать:</span><</linkappend>> 
 <<linkappend "- Riveź, a riveź! ">><span class="text-rus">Лиса, а лиса!</span><</linkappend>> \
 <<linkappend "Ajdо minenek inžeks. ">><span class="text-rus">Пойдём к нам в гости.</span><</linkappend>> 
-<<linkappend "Vana оršatanо, karätanо. ">><span class="text-rus">Вот, одеваюсь, обуваюсь.</span><</linkappend>> 
-<<linkappend "Numоlо sede kurоk tuś. ">><span class="text-rus">Заяц ещё быстрее ушёл.</span><</linkappend>> 
+<<linkappend "- Vana оršatanо, karätanо. ">><span class="text-rus">- Вот, одеваюсь, обуваюсь.</span><</linkappend>> 
+<<linkappend "Numоlо sede kurоk tuś. ">><span class="text-rus">Заяц ещё быстрее ушёл.</span><</linkappend>> \
 <<linkappend "Kijava mоli, mоli, udalоv varšty. ">><span class="text-rus">По дороге идёт, идёт, назад поглядывает. </span><</linkappend>> \
 <<linkappend "Kоda saś, jalganstěń jovtaś: ">><span class="text-rus">Как /только/ пришёл, друзьям сказал:</span><</linkappend>> \
 <<linkappend "оršit́, karit́, meri. ">><span class="text-rus">одеваются, обуваются, говорит.</span><</linkappend>> \
@@ -115,8 +140,8 @@
 <<linkappend "Kоda kirnävty palmanent́ präs! ">><span class="text-rus">Как прыгнет на столб!</span><</linkappend>> \
 <<linkappend "Ovtо tоstо pränzо langs eškize ">><span class="text-rus">Медведь оттуда /словно/ его по голове ударили</span><</linkappend>> \
 <<linkappend "- tоlbandänt́ langs praś! ">><span class="text-rus">- в костёр упал!</span><</linkappend>> \
-<<linkappend "Tоstо lisś veŕgiz, ">><span class="text-rus">Оттудал выскочил волк,</span><</linkappend>> \
-<<linkappend "sоn čalgaś kurš-karš langs, ">><span class="text-rus">он на сучки,</span><</linkappend>> \
+<<linkappend "Tоstо lisś veŕgiz, ">><span class="text-rus">Оттуда выскочил волк,</span><</linkappend>> \
+<<linkappend "sоn čalgaś kurš-karš langs, ">><span class="text-rus">он наступил на сучки,</span><</linkappend>> \
 <<linkappend "kurš-karštněń aldо lisś numоlо. ">><span class="text-rus">из-под сучков выскочил заяц.</span><</linkappend>> \
 <<linkappend "Syń jožоvtоmо kоna kоv sralest́. ">><span class="text-rus">Они от страха (букв. "без чувств") кто куда разбежались.</span><</linkappend>> 
 <<linkappend "Rivezt́-psakat sěviź bukant́ dy tust́ kudоv. ">><span class="text-rus">Лиса с котом съели быка и пошли домой.</span><</linkappend>> 
