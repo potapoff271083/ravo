@@ -8,7 +8,7 @@
 <center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Erzäks|1]]&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
 
-1::
+::1
 <audio controls>
     <source src="https://docs.google.com/uc?id=" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
@@ -29,7 +29,7 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][2]]
 
-2::
+::2
 <audio controls>
     <source src="https://docs.google.com/uc?id=" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
@@ -54,7 +54,7 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][1]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][3]]
 
-3::
+::3
 <audio controls>
     <source src="https://docs.google.com/uc?id=" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
@@ -84,7 +84,7 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][2]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][4]]
 
-4::
+::4
 <audio controls>
     <source src="https://docs.google.com/uc?id=" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
@@ -117,7 +117,7 @@
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][5]]
 
-5::
+::5
 <audio controls>
     <source src="https://docs.google.com/uc?id=" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 

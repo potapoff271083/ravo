@@ -1,0 +1,106 @@
+::start
+<center><b><small>Эрзянско-русские параллельные рассказы</small></b></center>\
+<center><h3>Пустачей</h3></center>\
+<center><img src="https://docs.google.com/uc?id=1u-gxYVghfpBdtkLe7QLZV1jRV-7gsEBW"></center>
+<center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
+<center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>\
+
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Erzaks|1]]&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
+
+::11
+<<linkappend "Эрясь-аштесь вирьсэ Пустачейка. ">><span class="text-rus">Жила-была в лесу Пустачейка.</span><</linkappend>>  \
+<<linkappend "Сась левксэнь ливтема шказо. ">><span class="text-rus">Пришло время выводить птенцов.</span><</linkappend>>  \
+<<linkappend "Вешнесь паро чувто. ">><span class="text-rus">Нашла хорошее дерево.</span><</linkappend>>  \
+<<linkappend "Тейсь прязонзо пизэ ды ливтсь левкст. ">><span class="text-rus">Свила (букв. "сделала") гнездо на верхушке (букв. "голове") дерева и вывела птенцов.</span><</linkappend>> 
+<<linkappend "Марясь левкстнэде ривеське. ">><span class="text-rus">Услышала о птенцах лиса.</span><</linkappend>>  \
+<<linkappend "Сась чувтонть алов ды сеери: ">><span class="text-rus">Пришла под дерево и кричит:</span><</linkappend>>  
+<<linkappend "- Пустачей-чей-чей! Каяк, каяк ве левкске, ">><span class="text-rus">- Пустачей-чей-чей! Брось, брось одного птенца,</span><</linkappend>>  \
+<<linkappend "а каят -  кузян, тонсетькак сэвтян! ">><span class="text-rus">не бросишь - залезу и тебя съем!</span><</linkappend>> 
+<<linkappend "Тандадсь Пустачей, каизе ве левксэнзэ. ">><span class="text-rus">Испугалась Пустачей, бросила одного птенца своего.</span><</linkappend>>  \
+<<linkappend "Ривеське каподизе ды сэвизе. ">><span class="text-rus">Лиса схватила его и съела.</span><</linkappend>> 
+<<linkappend "Омбоце чистэ таго сась ривеське чувтонть алов. ">><span class="text-rus">На второй день опять пришла лиса под дерево.</span><</linkappend>> 
+<<linkappend "- Пустачей-чей-чей! Каяк, каяк ве левкске, ">><span class="text-rus">- Пустачей-чей-чей! Брось, брось одного птенца,</span><</linkappend>>  \
+<<linkappend "а каят -  кузян, тонсетькак сэвтян. ">><span class="text-rus">не бросишь - залезу и тебя съем!</span><</linkappend>> 
+<<linkappend "Пустачей таго каясь тензэ ве левкске. ">><span class="text-rus">Пустачей опять бросила ей одного птенца.</span><</linkappend>>  \
+<<linkappend "Сонсь Пустачей аварди, сонсь аварди! ">><span class="text-rus">А сама Пустачей плачет, а сама плачет.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">пустачей</span> - овсянка обыкновенная (птица).</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][22]]
+
+::22
+<<linkappend "Ливтясь сия варака. ">><span class="text-rus">Пролетала там ворона.</span><</linkappend>>  \
+<<linkappend "Неизе Пустачеень авардемадо ды кевкстизе: ">><span class="text-rus">Увидела плач Пустачея и спрашивает (букв. "спросила"):</span><</linkappend>> 
+<<linkappend "- Тон мекс истя, Пустачей, авардят? ">><span class="text-rus">- Ты почему так, Пустачей, плачешь?</span><</linkappend>> 
+<<linkappend "Пустачей мери: ">><span class="text-rus">Пустачей отвечает:</span><</linkappend>> 
+<<linkappend "- Кода а авардемс, варака патяй! ">><span class="text-rus">- Как не плакать, ворона сестрица!</span><</linkappend>>  \
+<<linkappend "Тонадсь левксэзэнь ривеське, чистэ сы, левкс каявты, ">><span class="text-rus">Повадилась (букв. "научилась") к моим птенцам лиса, каждый день приходит, птенца требует (букв. "требует бросить"),</span><</linkappend>>  \
+<<linkappend "мери, кузян, тонсетькак сэвтян. ">><span class="text-rus">говорит, залезу и тебя съем.</span><</linkappend>> 
+<<linkappend "Варакась мери: ">><span class="text-rus">Ворона говорит:</span><</linkappend>> 
+<<linkappend "- Тон вана мезе тейть, Пустачей: ">><span class="text-rus">Ты вот что сделай, Пустачей:</span><</linkappend>>  \
+<<linkappend "кода сы ривеськесь ды карми кедьстэть левксэнь вешеме, ">><span class="text-rus">как придёт лиса и станет у тебя (букв. "из рук твоих") птенцов выпрашивать,</span><</linkappend>>  \
+<<linkappend "тон мерть тензэ: ">><span class="text-rus">ты скажи ей:</span><</linkappend>> 
+<<linkappend "- Эх, мушко пуло, керь лавтово! ">><span class="text-rus">- Эх, кудельный хвост, лубяное плечо!</span><</linkappend>>  \
+<<linkappend "Кандонь трокс а эскельдяват, ">><span class="text-rus">Через бревно не перешагнёшь,</span><</linkappend>>  \
+<<linkappend "косто тезэнь кузеват! ">><span class="text-rus">откуда тебе сюда залезть!</span><</linkappend>> 
+<<linkappend "Ривеськесь кевкстизе Пустачеень: ">><span class="text-rus">Лиса спрашивает (букв. "спросила") Пустачей:</span><</linkappend>> 
+<<linkappend "- Кие истя тонь, Пустачей, тонавтынзеть? ">><span class="text-rus">- Кто так тебя, Пустачей, научил?</span><</linkappend>> 
+<<linkappend "Пустачей мери: ">><span class="text-rus">Пустачей отвечает:</span><</linkappend>> 
+<<linkappend "- Варака патям. ">><span class="text-rus">- моя сестрица Ворона.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">сия</span> - 1. серебро 2. //наречие места// там;
+<span class="text-gr">каямс</span> - бросить; 
+<span class="text-gr">каявтомс</span> - //понудительный залог к// <span class="text-gr">каямс</span> - заставить бросить;
+<span class="text-gr">мушко</span> - конопля, пучок кудели; <span class="text-gr">мушко пуло</span> - //эвфемизм к// <span class="text-gr">верьгиз</span> - волк;
+<span class="text-gr">керь</span> - лубок, кора;
+<span class="text-gr">кандо</span> - 1. колода (//короткое, толстое бревно//) 2. груз, тяжесть; \
+<span class="text-gr">кандт-кундт</span> - завал (//спиленных и брошенных в лесу деревьев//).</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][11]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][33]]
+
+::33
+<<linkappend "Ривеське кежиявтсь варака лангс, ">><span class="text-rus">Лисица рассердилась на ворону,</span><</linkappend>>  \
+<<linkappend "вешнизе сонзэ вирьстэ ды мери тензэ: ">><span class="text-rus">нашла её в лесу (букв. "из леса") и говорит ей:</span><</linkappend>> 
+<<linkappend "- Варака патяй, мейс тон Пустачейкань тонавтык, ">><span class="text-rus">- Сестрица Ворона, зачем ты научила Пустачей,</span><</linkappend>>  \
+<<linkappend "мон тонь сэвтян! ">><span class="text-rus">я тебя съем!</span><</linkappend>> 
+<<linkappend "Варакась мери тензэ: ">><span class="text-rus">Ворона отвечает ей:</span><</linkappend>> 
+<<linkappend "- Ривезь патяй, кода тетям-авам кулость, монгак истя кулан. ">><span class="text-rus">Сестрица Лиса, как мои отец с матерью умерли, так и я умру.</span><</linkappend>> 
+<<linkappend "Ривеське кевкстизе: ">><span class="text-rus">Лиса спрашивает:</span><</linkappend>> 
+<<linkappend "- Кода? ">><span class="text-rus">- Как?</span><</linkappend>> 
+<<linkappend "Варака мери: ">><span class="text-rus">Ворона отвечает:</span><</linkappend>> 
+<<linkappend "- Вана кода: ве авань ули каштомсо каша чакшозо, ">><span class="text-rus">- Вот как: у одной женщины есть в печке горшок с кашей,</span><</linkappend>>  \
+<<linkappend "мацтсо ули ой парнезэ, ">><span class="text-rus">в погребе есть горшочек с маслом,</span><</linkappend>>  \
+<<linkappend "лавця лангсо - моцька паргозо. ">><span class="text-rus">на полке - лукошко с мочкой.</span><</linkappend>>  \
+<<linkappend "Азё нень весе салыть ды пандо пряс лацить. ">><span class="text-rus">Иди всё это укради и на горке разложи.</span><</linkappend>>  \
+<<linkappend "Каша чакшонть ды ой паренть путыть чирева, ">><span class="text-rus">Горшок с кашей и горшочек с маслом разложи по краям,</span><</linkappend>>  \
+<<linkappend "моцька паргонть - куншказост. ">><span class="text-rus">лукошко с мочкой - между ними.</span><</linkappend>>  \
+<<linkappend "Тонсь мадть пандонть алов, ">><span class="text-rus">А ты сама ложись под горой,</span><</linkappend>>  \
+<<linkappend "автик кургот ды учок. ">><span class="text-rus">разинь рот и жди.</span><</linkappend>>  \
+<<linkappend "Мон озан паргинентень ды карман оенть марто кашадонть ярсамо. ">><span class="text-rus">Я сяду в лукошко и буду кашу с маслом есть.</span><</linkappend>>  \
+<<linkappend "Кода пекем пешкеди, паргинесэнть витьстэ кургозот кирякстан. ">><span class="text-rus">Как /только/ наемся (букв. "живот мой наполнится"), в лукошке прямо в рот тебе прикачу.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">мацт</span> - погреб, подвал;
+<span class="text-gr">парь</span> - кадка (//ёмкость цилиндрической формы, сделанная из деревянных клёпок (дощечек) и обтянутая металлическими или деревянными обручами; эрзянский парь изготавливался из единого ствола липы//);
+<span class="text-gr">моцька</span> - мочка, кудель, <span class="text-gr">моцька парго</span> - кузовок для кудели (//кудель - очищенное от костры волокно льна, конопли или шерсть, приготовленные для прядения//);
+<span class="text-gr">парго</span> - кузов, короб; лукошко;
+<span class="text-gr">ладсемс</span> - //многократный вид глагола// <span class="text-gr">ладямс</span> - налаживать, настраивать, размещать.</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][22]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][44]]
+
+::44
+<<linkappend "Ривеськесь тейсь, кода тонавтызе варакась: ">><span class="text-rus">Лиса сделала, как научила её ворона:</span><</linkappend>>  \
+<<linkappend "салась ве авань каштомсто каша чакш, ">><span class="text-rus">украла у одной женщины из печки горшок с кашей,</span><</linkappend>>  \
+<<linkappend "мацтсто - ой парь, лавця лангсто - моцька парго. ">><span class="text-rus">из погреба - горшочек с маслом, с полки - лукошко с мочкой.</span><</linkappend>>  \
+<<linkappend "Путынзе пандо пряс, сонсь мадсь пандалов, ">><span class="text-rus">Разложила их на вершине горы, сама легла под горой,</span><</linkappend>>  \
+<<linkappend "автизе кургонзо ды учи вараканть эйсэ. ">><span class="text-rus">разинула рот и ждёт ворону.</span><</linkappend>> 
+<<linkappend "Варака озась моцька паргонтень ">><span class="text-rus">Ворона села в лукошко с мочкой</span><</linkappend>>  \
+<<linkappend "ды кармась ой марто кашадонть ярсамо. ">><span class="text-rus">и стала есть кашу с маслом.</span><</linkappend>>  \
+<<linkappend "Кода весе сэвевсь, ливтясь ривезенть вельксэс ды серьгедсь: ">><span class="text-rus">Как всё съела, пролетела над лисой и крикнула:</span><</linkappend>> 
+<<linkappend "- Ривеське патякай, на теть бабань пеште! ">><span class="text-rus">- Сестрица Лисица, на тебе кукиш!</span><</linkappend>> 
+<<linkappend "Ривеське тей кирнявты, тов кирнявты, мезеяк а тееви: ">><span class="text-rus">Лиса сюда прыгнет, туда прыгнет, ничего сделать не может:</span><</linkappend>> 
+<<linkappend "варака ливтязь тусь вирев. ">><span class="text-rus">ворона полетела (букв. "полетев ушла") в лес.</span><</linkappend>> 
+
+<div class="zagolovok_2"><span class="text-gr">бабань пеште</span> - кукиш, букв. "бабушкин орех";
+<span class="text-gr">теевемс</span> - //возможностная форма глагола// <span class="text-gr">теемс</span> (делать, сделать) - мочь (иметь возможность, быть в состоянии) сделать.</div>
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]
