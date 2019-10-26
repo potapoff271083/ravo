@@ -51,6 +51,15 @@ jjj
 Ь ь Щ  щ  Й й Ъ ъ
 ́  ́  Čš čš J j
 
-affrikaty
-H h nz nž ng nk
-Χ χ nʒ nǯ ŋg ŋk
+affricates
+H h ng nk NG NK  
+
+Χ χ ŋg ŋk ŊG ŊK  
+
+rz ŕz vz v́z mz ḿz nz ńz lz ĺz  RZ ŔZ VZ V́Z MZ ḾZ NZ ŃZ LZ ĹZ 
+
+rʒ ŕʒ vʒ v́ʒ mʒ ḿʒ nʒ ńʒ lʒ ĺʒ  RƷ ŔƷ VƷ V́Ʒ MƷ ḾƷ NƷ ŃƷ LƷ ĹƷ 
+
+rž ŕž vž v́ž mž ḿž nž ńž lž ĺž  RŽ ŔŽ VŽ V́Ž MŽ ḾŽ NŽ ŃŽ LŽ ĹŽ
+
+rǯ ŕǯ vǯ v́ǯ mǯ ḿǯ nǯ ńǯ lǯ ĺǯ  RǮ ŔǮ VǮ V́Ǯ MǮ ḾǮ NǮ ŃǮ LǮ ĹǮ
