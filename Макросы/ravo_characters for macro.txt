@@ -25,7 +25,6 @@ jjj
 
 velar_nasal
 ng nk NG NK  
-
 ŋg ŋk ŊG ŊK  
 
 z_affricate
