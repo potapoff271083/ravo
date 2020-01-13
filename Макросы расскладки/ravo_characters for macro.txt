@@ -62,8 +62,8 @@ hushing_combinations
 čě šě žě čy šy žy Čě Šě Žě Čy Šy Žy ČĚ ŠĚ ŽĚ ČY ŠY ŽY
 ---------------------------------------------------------------------------------------
 velar_nasal
-ng nk NG NK  
-ŋg ŋk ŊG ŊK  
+ng nk NG NK ńǵ ńḱ ŃǴ ŃḰ 
+ŋg ŋk ŊG ŊK ńǵ ńḱ ŃǴ ŃḰ 
 ---------------------------------------------------------------------------------------
 z_affricate
 rz ŕz vz v́z jz nz ńz lz ĺz RZ ŔZ VZ V́Z JZ NZ ŃZ LZ ĹZ 

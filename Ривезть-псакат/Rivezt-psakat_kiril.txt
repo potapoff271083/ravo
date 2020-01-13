@@ -3,19 +3,20 @@
 <center><h3>Ривезть-псакат</h3></center>\
 
 <center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
+<center><small>текст озвучила Лариса Зыбкина</small></center>\
 <center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>\
 
-<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Erzäks|1]]&nbsp;&nbsp;&nbsp;\
+<center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Ěrzäks|1]]&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
 
 ::11
 <audio controls>
-    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=0B-CICrH3Mx3dU2IxTlMybVNsUk1DdXVoRkNDQ1ItX3lzSkVR" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
-<<linkappend "Весть псака лиссь вирьга якамо. ">><span class="text-rus">Однажды кот отправился в лес погулять.</span><</linkappend>> \
-<<linkappend "Вана каршозонзо ривезь понгсь ды корты тензэ: ">><span class="text-rus">Вот навстречу ему попалась лиса и говорит ему:</span><</linkappend>> 
+<<linkappend "Весть псака лиссь вирьга якамо. ">><span class="text-rus">Однажды кот пошёл в лес погулять.</span><</linkappend>> \
+<<linkappend "Вана каршозонзо ривезь понгсь ды корты тензэ: ">><span class="text-rus">Вот навстречу попалась ему лиса и говорит:</span><</linkappend>> 
 <<linkappend "- Тонь леметь кода? ">><span class="text-rus">- Как тебя зовут (букв. "твоё имя какое")?</span><</linkappend>> 
 <<linkappend "Псака ёвтась тензэ: ">><span class="text-rus">Кот ответил ей:</span><</linkappend>> 
 <<linkappend "- Монь лемем Кот Иваныч. ">><span class="text-rus">- Меня зовут Кот Иваныч (букв. "Моё имя Кот Иваныч").</span><</linkappend>> \
@@ -23,7 +24,7 @@
 <<linkappend "- Лиса Иваныч,- ёвтась тензэ ривезь. ">><span class="text-rus">- Лиса Иваныч, - ответила ему лиса.</span><</linkappend>> \
 <<linkappend "Мейле ривезь мерсь тензэ: ">><span class="text-rus">После лиса говорит (букв. "сказала") ему:</span><</linkappend>> 
 <<linkappend "- Адя, Кот Иваныч, вейсэ эрямо. ">><span class="text-rus">- Айда, Кот Иваныч, вместе жить.</span><</linkappend>> 
-<<linkappend "- Адя! - мерсь псака. ">><span class="text-rus">- Айда! - ответил (букв. "сказал") кот.</span><</linkappend>> 
+<<linkappend "- Адя! - мерсь псака. ">><span class="text-rus">- Пойдём! - ответил (букв. "сказал") кот.</span><</linkappend>> 
 <<linkappend "Тусть эрямо псакань кудос. ">><span class="text-rus">Пошли они жить в дом кота.</span><</linkappend>> 
 
 [img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][start]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
@@ -31,16 +32,16 @@
 
 ::22
 <audio controls>
-    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=0B-CICrH3Mx3deU1iZXE1SWtQVUstbXJsczBZUjduQlFTQlRJ" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
-<<linkappend "Весть ривезь тусь вирьга якамо. ">><span class="text-rus">Однажды лиса пошла в лес погулять.</span><</linkappend>> \
-<<linkappend "Яки сон вирьга, каршозонзо понгсь овто. ">><span class="text-rus">Ходит она по лесу, навстречу ей попался медведь.</span><</linkappend>> \
+<<linkappend "Весть ривезь тусь вирьга якамо. ">><span class="text-rus">Однажды лиса отправилась в лес погулять.</span><</linkappend>> \
+<<linkappend "Яки сон вирьга, каршозонзо понгсь овто. ">><span class="text-rus">Гуляет она по лесу, навстречу ей попадает медведь.</span><</linkappend>> \
 <<linkappend "Овтось мери тензэ. ">><span class="text-rus">Медведь говорит ей.</span><</linkappend>> 
 <<linkappend "- Мон тонь, ривезь, сэвтян! ">><span class="text-rus">- Я тебя, лиса, съем!</span><</linkappend>> 
 <<linkappend "Ривезь каршонзо: ">><span class="text-rus">Лиса в ответ ему:</span><</linkappend>> 
-<<linkappend "- Монь мирдем ули, Кот Иваныч: ">><span class="text-rus">- У меня муж мой есть, Кот Иваныч:</span><</linkappend>> \
+<<linkappend "- Монь мирдем ули, Кот Иваныч: ">><span class="text-rus">- У меня муж есть, Кот Иваныч:</span><</linkappend>> \
 <<linkappend "тон сонзэ пильге алдо сэксэнзэяк а аштят! ">><span class="text-rus">ты и грязи из под его ног не стоишь!</span><</linkappend>> 
 <<linkappend "Овто тандадсь ды тусь. ">><span class="text-rus">Медведь испугался и пошёл /дальше/.</span><</linkappend>> \
 <<linkappend "Мейле ривезень каршо верьгиз понгсь ды мери: ">><span class="text-rus">После лисе навстречу попался волк и говорит:</span><</linkappend>> 
@@ -56,7 +57,7 @@
 
 ::33
 <audio controls>
-    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=0B-CICrH3Mx3dcVVFakJrSHdsbk5ZWG8xekNvVG1SRXZjTW9v" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
@@ -86,12 +87,12 @@
 
 ::44
 <audio controls>
-    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=0B-CICrH3Mx3dU2k2YngxdHY2eUpEelk1SmxfRjhNelYzYTJv" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
 <<linkappend "Вана сынь тейсть пир. ">><span class="text-rus">Вот они сделали пир.</span><</linkappend>> \
-<<linkappend "Овто тусь ривезень мирдензэ марто тердеме. ">><span class="text-rus">Медведь пошёл лису с мужем её звать.</span><</linkappend>> \
+<<linkappend "Овто тусь ривезень мирдензэ марто тердеме. ">><span class="text-rus">Медведь пошёл лису с мужем звать.</span><</linkappend>> \
 <<linkappend "Сась овто вальмалов, кармась сеереме: ">><span class="text-rus">Подошёл медведь под окна, стал кричать:</span><</linkappend>> 
 <<linkappend "- Ривезь, а ривезь! ">><span class="text-rus">- Лиса, а лиса!</span><</linkappend>> \
 <<linkappend "Айдо миненек симеме, ярсамо. ">><span class="text-rus">Айда к нам пить, есть.</span><</linkappend>> 
@@ -119,12 +120,12 @@
 
 ::55
 <audio controls>
-    <source src="https://docs.google.com/uc?id=" type="audio/mp3">
+    <source src="https://docs.google.com/uc?id=0B-CICrH3Mx3dMGtrTmRHaEcxSlYtNGRYMlU3Yk50OFgybFpr" type="audio/mp3">
     Тег audio не поддерживается вашим браузером. 
 </audio>
 
 <<linkappend "Мейле нумоло тусь. ">><span class="text-rus">После заяц пошёл.</span><</linkappend>> \
-<<linkappend "Сась ривезнень, кармась сеереме: ">><span class="text-rus">Пришёл к лисе стал кричать:</span><</linkappend>> 
+<<linkappend "Сась ривезнень, кармась сеереме: ">><span class="text-rus">Пришёл к лисе, стал кричать:</span><</linkappend>> 
 <<linkappend "- Ривезь, а ривезь! ">><span class="text-rus">Лиса, а лиса!</span><</linkappend>> \
 <<linkappend "Айдо миненек инжекс. ">><span class="text-rus">Пойдём к нам в гости.</span><</linkappend>> 
 <<linkappend "- Вана оршатано, карятано. ">><span class="text-rus">- Вот, одеваюсь, обуваюсь.</span><</linkappend>> 
@@ -136,7 +137,7 @@
 <<linkappend "верьгиз толбандянь пенгтнень алов, ">><span class="text-rus">волк /спрятался/ под дрова для костра,</span><</linkappend>> \
 <<linkappend "нумоло курш-карш алов кекшсь. ">><span class="text-rus">заяц под сучки спрятался.</span><</linkappend>> 
 <<linkappend "Кода ривезть-псакат састь, ">><span class="text-rus">Когда лиса с котом пришли,</span><</linkappend>> \
-<<linkappend "псака ваны - овто палмань прясо. ">><span class="text-rus">кот видит - медведь на вершине столба. </span><</linkappend>> \
+<<linkappend "псака ваны - овто палмань прясо. ">><span class="text-rus">кот смотрит - медведь на вершине столба. </span><</linkappend>> \
 <<linkappend "Кода кирнявты палманенть пряс! ">><span class="text-rus">Как прыгнет на столб!</span><</linkappend>> \
 <<linkappend "Овто тосто прянзо лангс эшкизе ">><span class="text-rus">Медведь оттуда /словно/ его по голове ударили</span><</linkappend>> \
 <<linkappend "- толбандянть лангс прась! ">><span class="text-rus">- в костёр упал!</span><</linkappend>> \
