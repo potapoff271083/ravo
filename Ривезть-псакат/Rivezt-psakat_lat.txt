@@ -5,6 +5,8 @@
 <center><small>из книги "Ёвксонь кужо", составитель Маризь Кемаль</small></center>\
 <center><small>текст озвучила Лариса Зыбкина</small></center>\
 <center><small>подстрочно-смысловой перевод Михаил Потапов</small></center>\
+<center><small><span class="text-gr">Навигация по сайту осуществляется с помощью стрелок на странице и в левом сайдбаре</span></small></center>\
+<center><small><span class="text-gr">Перевод при нажатии (клике) на строчке</span></small></center>\
 
 <center>[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][1]]&nbsp;[[Ěrzäks|1]]&nbsp;&nbsp;&nbsp;\
 [img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][11]]&nbsp;[[Эрзякс|11]]</center>
@@ -115,8 +117,8 @@
 <<linkappend "Učit́, učit́ - a syt́. ">><span class="text-rus">Ждут, ждут - не идут.</span><</linkappend>> 
 
 <div class="zagolovok_2"><span class="text-gr">taparäms</span> - заворачивать, оборачивать.</div>
-[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][33]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][55]]
+[img[https://pp.userapi.com/c852320/v852320166/11f354/tvE44Fe50J0.jpg][3]]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+[img[https://pp.userapi.com/c852320/v852320166/11f35b/py9LvVBZQcg.jpg][5]]
 
 ::5
 <audio controls>
